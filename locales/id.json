@@ -105,7 +105,7 @@
   "This browser can't connect devices": "Browser ini tidak dapat menghubungkan perangkat",
   "PairOnce needs WebRTC, which this browser has turned off or doesn't have. Update your browser or switch to the latest Safari or Chrome. Some privacy modes, such as Lockdown Mode on iPhone, can turn WebRTC off.": "PairOnce membutuhkan WebRTC, yang dimatikan atau tidak tersedia di browser ini. Perbarui browser Anda atau beralih ke Safari atau Chrome versi terbaru. Beberapa mode privasi, seperti Mode Isolasi di iPhone, dapat mematikan WebRTC.",
   "Relay isn't available": "Server perantara tidak tersedia",
-  "The relay is full or busy right now. Try both devices on the same Wi-Fi.": "Server perantara sedang penuh atau sibuk. Coba hubungkan kedua perangkat ke Wi-Fi yang sama.",
+  "The relay couldn't be reached just now. Try again in a moment, or put both devices on the same Wi-Fi.": "Relay tidak dapat dijangkau saat ini. Coba lagi sebentar lagi, atau sambungkan kedua perangkat ke Wi-Fi yang sama.",
   "Declined by the other device": "Ditolak oleh perangkat lain",
   "The other device is busy": "Perangkat lain sedang sibuk",
   "Its page may be full. Ask them to save and remove received files, then retry.": "Halamannya mungkin sudah penuh. Minta agar file yang diterima di sana disimpan lalu dihapus, kemudian coba lagi.",

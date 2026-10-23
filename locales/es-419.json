@@ -105,7 +105,7 @@
   "This browser can't connect devices": "Este navegador no puede conectar dispositivos",
   "PairOnce needs WebRTC, which this browser has turned off or doesn't have. Update your browser or switch to the latest Safari or Chrome. Some privacy modes, such as Lockdown Mode on iPhone, can turn WebRTC off.": "PairOnce necesita WebRTC, que este navegador tiene desactivado o no incluye. Actualiza el navegador o cambia a la versión más reciente de Safari o Chrome. Algunos modos de privacidad, como el modo Aislamiento del iPhone, pueden desactivar WebRTC.",
   "Relay isn't available": "La retransmisión no está disponible",
-  "The relay is full or busy right now. Try both devices on the same Wi-Fi.": "El servidor de retransmisión está lleno u ocupado en este momento. Prueba con ambos dispositivos en la misma red Wi-Fi.",
+  "The relay couldn't be reached just now. Try again in a moment, or put both devices on the same Wi-Fi.": "No se pudo conectar con el relé. Inténtalo de nuevo en un momento o conecta los dos dispositivos a la misma Wi-Fi.",
   "Declined by the other device": "Rechazado por el otro dispositivo",
   "The other device is busy": "El otro dispositivo está ocupado",
   "Its page may be full. Ask them to save and remove received files, then retry.": "Puede que su página esté llena. Pide que guarden y quiten los archivos recibidos, y vuelve a intentarlo.",

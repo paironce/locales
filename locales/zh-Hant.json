@@ -105,7 +105,7 @@
   "This browser can't connect devices": "這個瀏覽器無法連接裝置",
   "PairOnce needs WebRTC, which this browser has turned off or doesn't have. Update your browser or switch to the latest Safari or Chrome. Some privacy modes, such as Lockdown Mode on iPhone, can turn WebRTC off.": "PairOnce 需要 WebRTC，但這個瀏覽器已將它關閉或不支援。請更新瀏覽器，或改用最新版的 Safari 或 Chrome。部分隱私模式（例如 iPhone 的「封閉模式」）可能會關閉 WebRTC。",
   "Relay isn't available": "無法使用中繼伺服器",
-  "The relay is full or busy right now. Try both devices on the same Wi-Fi.": "中繼伺服器目前已滿或忙碌中。請讓兩台裝置連上同一個 Wi-Fi 再試一次。",
+  "The relay couldn't be reached just now. Try again in a moment, or put both devices on the same Wi-Fi.": "暫時連不上中繼。請稍後再試，或讓兩台裝置連上同一個 Wi-Fi。",
   "Declined by the other device": "另一台裝置已拒絕接收",
   "The other device is busy": "另一台裝置目前無法接收",
   "Its page may be full. Ask them to save and remove received files, then retry.": "對方的頁面可能已滿。請對方儲存並移除已收到的檔案，然後再重試。",

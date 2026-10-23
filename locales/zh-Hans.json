@@ -424,7 +424,7 @@
   "The upload service returned an unsupported part size.": "上传服务返回了不支持的分片大小。",
   "Third-party notices": "第三方软件许可",
   "This batch expired or was deleted. Choose files to create a new batch.": "此批次已过期或删除。请选择文件创建新批次。",
-  "The relay is full or busy right now. Try both devices on the same Wi-Fi.": "中继服务器目前已满或繁忙。请让两台设备连上同一个 Wi-Fi 再试。",
+  "The relay couldn't be reached just now. Try again in a moment, or put both devices on the same Wi-Fi.": "暂时连不上中继。请稍后再试，或者让两台设备连同一个 Wi-Fi。",
   "This browser can't keep a device key": "此浏览器无法保存设备密钥",
   "This device": "本机",
   "This does not mean your account is empty.": "这不代表你的账户中没有文件。",
