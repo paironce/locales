@@ -454,5 +454,10 @@
   "License code": "라이선스 코드",
   "Activate": "활성화",
   "See plans": "요금제 보기",
-  "Get 5 GB a month with Pro": "Pro로 매달 5GB 쓰기"
+  "Get 5 GB a month with Pro": "Pro로 매달 5GB 쓰기",
+  "Open source": "오픈 소스",
+  "Devices on this license: {count} of {max}": "이 라이선스의 기기: {count} / {max}대",
+  "Device ending {tail}, added {date}": "끝자리 {tail} 기기, {date} 추가",
+  "Device ending {tail}": "끝자리 {tail} 기기",
+  "Remove a device you no longer use to make room for this one.": "더 이상 쓰지 않는 기기 하나를 해제해 이 기기 자리를 만드세요."
 }

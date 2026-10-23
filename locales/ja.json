@@ -454,5 +454,10 @@
   "License code": "ライセンスコード",
   "Activate": "有効にする",
   "See plans": "プランを見る",
-  "Get 5 GB a month with Pro": "Pro で毎月 5 GB に増やす"
+  "Get 5 GB a month with Pro": "Pro で毎月 5 GB に増やす",
+  "Open source": "オープンソース",
+  "Devices on this license: {count} of {max}": "このライセンスの端末：{count} / {max} 台",
+  "Device ending {tail}, added {date}": "末尾 {tail} の端末（{date} に追加）",
+  "Device ending {tail}": "末尾 {tail} の端末",
+  "Remove a device you no longer use to make room for this one.": "使わなくなった端末を 1 台解除して、この端末の枠を空けてください。"
 }

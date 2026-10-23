@@ -634,5 +634,10 @@
   "License code": "许可码",
   "Activate": "激活",
   "See plans": "查看方案",
-  "Get 5 GB a month with Pro": "升级 Pro，每月 5 GB"
+  "Get 5 GB a month with Pro": "升级 Pro，每月 5 GB",
+  "Open source": "开源",
+  "Devices on this license: {count} of {max}": "这个许可下的设备：{count} / {max} 台",
+  "Device ending {tail}, added {date}": "尾号 {tail} 的设备，{date} 添加",
+  "Device ending {tail}": "尾号 {tail} 的设备",
+  "Remove a device you no longer use to make room for this one.": "请移除一台不再使用的设备，给这台腾出名额。"
 }

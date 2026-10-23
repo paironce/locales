@@ -454,5 +454,10 @@
   "License code": "लाइसेंस कोड",
   "Activate": "चालू करें",
   "See plans": "प्लान देखें",
-  "Get 5 GB a month with Pro": "Pro के साथ हर महीने 5 GB पाएँ"
+  "Get 5 GB a month with Pro": "Pro के साथ हर महीने 5 GB पाएँ",
+  "Open source": "ओपन सोर्स",
+  "Devices on this license: {count} of {max}": "इस लाइसेंस पर डिवाइस: {max} में से {count}",
+  "Device ending {tail}, added {date}": "{tail} पर खत्म होने वाला डिवाइस, {date} को जोड़ा गया",
+  "Device ending {tail}": "{tail} पर खत्म होने वाला डिवाइस",
+  "Remove a device you no longer use to make room for this one.": "इस डिवाइस के लिए जगह बनाने को, कोई ऐसा डिवाइस हटाएँ जिसे अब इस्तेमाल नहीं करते।"
 }

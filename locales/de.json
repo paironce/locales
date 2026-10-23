@@ -454,5 +454,10 @@
   "License code": "Lizenzcode",
   "Activate": "Aktivieren",
   "See plans": "Tarife ansehen",
-  "Get 5 GB a month with Pro": "Mit Pro 5 GB im Monat"
+  "Get 5 GB a month with Pro": "Mit Pro 5 GB im Monat",
+  "Open source": "Open Source",
+  "Devices on this license: {count} of {max}": "Geräte auf dieser Lizenz: {count} von {max}",
+  "Device ending {tail}, added {date}": "Gerät mit Endung {tail}, hinzugefügt am {date}",
+  "Device ending {tail}": "Gerät mit Endung {tail}",
+  "Remove a device you no longer use to make room for this one.": "Entferne ein Gerät, das du nicht mehr nutzt, um Platz für dieses zu schaffen."
 }
