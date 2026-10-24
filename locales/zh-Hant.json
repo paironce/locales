@@ -445,5 +445,6 @@
   "New connection": "開始新連線",
   "From me": "我傳送的",
   "To me": "傳給我的",
-  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "選好檔案就會馬上傳出，{peer} 先確認接收。也可以把檔案拖到這裡，或在下方輸入訊息。"
+  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "選好檔案就會馬上傳出，{peer} 先確認接收。也可以把檔案拖到這裡，或在下方輸入訊息。",
+  "Files up to {size} each on this connection.": "本次連線每個檔案最大 {size}。"
 }

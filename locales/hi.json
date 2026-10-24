@@ -445,5 +445,6 @@
   "New connection": "नया कनेक्शन",
   "From me": "मैंने भेजी",
   "To me": "मुझे भेजी",
-  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "हर फ़ाइल चुनते ही भेजी जाती है, और {peer} पहले उसे स्वीकार करता है। आप फ़ाइलें यहाँ छोड़ भी सकते हैं या नीचे संदेश लिख सकते हैं।"
+  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "हर फ़ाइल चुनते ही भेजी जाती है, और {peer} पहले उसे स्वीकार करता है। आप फ़ाइलें यहाँ छोड़ भी सकते हैं या नीचे संदेश लिख सकते हैं।",
+  "Files up to {size} each on this connection.": "इस कनेक्शन पर हर फ़ाइल {size} तक।"
 }

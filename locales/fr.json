@@ -445,5 +445,6 @@
   "New connection": "Nouvelle connexion",
   "From me": "Envoyés par moi",
   "To me": "Reçus",
-  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "Chaque fichier part dès que vous le choisissez, et {peer} l’accepte d’abord. Vous pouvez aussi déposer des fichiers ici ou écrire un message ci-dessous."
+  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "Chaque fichier part dès que vous le choisissez, et {peer} l’accepte d’abord. Vous pouvez aussi déposer des fichiers ici ou écrire un message ci-dessous.",
+  "Files up to {size} each on this connection.": "Fichiers jusqu’à {size} chacun sur cette connexion."
 }

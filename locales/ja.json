@@ -445,5 +445,6 @@
   "New connection": "新しく接続",
   "From me": "自分が送信",
   "To me": "自分あて",
-  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "ファイルは選ぶとすぐに送られ、{peer} が受け取るかを先に確認します。ここにドロップしたり、下にメッセージを入力したりもできます。"
+  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "ファイルは選ぶとすぐに送られ、{peer} が受け取るかを先に確認します。ここにドロップしたり、下にメッセージを入力したりもできます。",
+  "Files up to {size} each on this connection.": "この接続では 1 ファイル {size} まで送れます。"
 }

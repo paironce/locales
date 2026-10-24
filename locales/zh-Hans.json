@@ -673,5 +673,6 @@
   "New connection": "开始新连接",
   "From me": "我发送的",
   "To me": "发给我的",
-  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "选好文件就会马上发出，{peer} 先确认接收。也可以把文件拖到这里，或在下方输入消息。"
+  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "选好文件就会马上发出，{peer} 先确认接收。也可以把文件拖到这里，或在下方输入消息。",
+  "Files up to {size} each on this connection.": "本次连接每个文件最大 {size}。"
 }

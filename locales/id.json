@@ -445,5 +445,6 @@
   "New connection": "Koneksi baru",
   "From me": "Dari saya",
   "To me": "Untuk saya",
-  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "Setiap file langsung dikirim begitu Anda memilihnya, dan {peer} menerimanya dulu. Anda juga bisa meletakkan file di sini atau mengetik pesan di bawah."
+  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "Setiap file langsung dikirim begitu Anda memilihnya, dan {peer} menerimanya dulu. Anda juga bisa meletakkan file di sini atau mengetik pesan di bawah.",
+  "Files up to {size} each on this connection.": "File hingga {size} per file di koneksi ini."
 }
