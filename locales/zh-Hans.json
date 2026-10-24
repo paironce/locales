@@ -654,5 +654,13 @@
   "Turn on": "开启",
   "Received files stay in this tab until you save them: {used} of {limit} used.": "收到的文件在保存前只留在本标签页：已用 {used}，上限 {limit}。",
   "Message or link": "消息或链接",
-  "Drop files to send to {peer}": "松开即发给 {peer}"
+  "Drop files to send to {peer}": "松开即发给 {peer}",
+  "Product": "产品",
+  "Help": "帮助",
+  "All guides": "全部指南",
+  "How to connect": "连接方式",
+  "Between your devices": "在你的设备之间",
+  "Privacy & security": "隐私与安全",
+  "You approve before anything connects.": "由你批准后才会连接。",
+  "End-to-end encrypted · nothing stored on our servers": "端到端加密 · 服务器上什么都不存"
 }
