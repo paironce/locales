@@ -414,7 +414,7 @@
   "Refresh PairOnce on the other device to send it files over 2 GB.": "Muat ulang PairOnce di perangkat lain untuk mengirim file di atas 2 GB ke perangkat itu.",
   "Send files up to 10 GB with Pro": "Kirim file hingga 10 GB dengan Pro",
   "No account, no cloud copy, no tracking cookies. Close the page and what you have not saved can no longer be opened; large files left in this browser are deleted the next time PairOnce opens.": "Tanpa akun, tanpa salinan di cloud, tanpa cookie pelacak. Setelah halaman ditutup, yang belum disimpan tidak bisa dibuka lagi; file besar yang tertinggal di browser ini dihapus saat PairOnce dibuka berikutnya.",
-  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.": "PairOnce — transfer file dari browser ke browser antarperangkat Anda. Tanpa aplikasi, tanpa akun, tidak ada yang disimpan di server.",
+  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.": "PairOnce — transfer file dari browser ke browser antarperangkat Anda. Tanpa aplikasi, tanpa akun, file tidak pernah disimpan di server.",
   "New device": "Perangkat baru",
   "Choose files to send to several devices": "Pilih file untuk dikirim ke beberapa perangkat",
   "just now": "baru saja",

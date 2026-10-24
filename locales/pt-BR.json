@@ -414,7 +414,7 @@
   "Refresh PairOnce on the other device to send it files over 2 GB.": "Recarregue o PairOnce no outro dispositivo para enviar arquivos de mais de 2 GB para ele.",
   "Send files up to 10 GB with Pro": "Envie arquivos de até 10 GB com o Pro",
   "No account, no cloud copy, no tracking cookies. Close the page and what you have not saved can no longer be opened; large files left in this browser are deleted the next time PairOnce opens.": "Sem conta, sem cópia na nuvem, sem cookies de rastreamento. Ao fechar a página, o que você não salvou não pode mais ser aberto; arquivos grandes deixados neste navegador são apagados na próxima vez que o PairOnce abrir.",
-  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.": "PairOnce — transferência de arquivos de navegador para navegador entre seus dispositivos. Sem app, sem conta, nada guardado em servidor.",
+  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.": "PairOnce — transferência de arquivos de navegador para navegador entre seus dispositivos. Sem app, sem conta, nenhum arquivo guardado em servidor.",
   "New device": "Novo dispositivo",
   "Choose files to send to several devices": "Escolher arquivos para enviar a vários dispositivos",
   "just now": "agora",

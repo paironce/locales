@@ -638,7 +638,7 @@
   "Refresh PairOnce on the other device to send it files over 2 GB.": "请在另一台设备上刷新 PairOnce，才能给它发送超过 2 GB 的文件。",
   "Send files up to 10 GB with Pro": "用 Pro 发送最大 10 GB 的文件",
   "No account, no cloud copy, no tracking cookies. Close the page and what you have not saved can no longer be opened; large files left in this browser are deleted the next time PairOnce opens.": "无需账户，不存云端，不用跟踪 Cookie。关闭页面后，没保存的内容就打不开了；留在本浏览器里的大文件，会在下次打开 PairOnce 时删除。",
-  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.": "PairOnce——在你的设备之间，从浏览器到浏览器传文件。无需 App，无需账户，服务器上什么都不存。",
+  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.": "PairOnce——在你的设备之间，从浏览器到浏览器传文件。无需 App，无需账户，文件不存在服务器上。",
   "New device": "新设备",
   "Choose files to send to several devices": "选择文件，发给多台设备",
   "just now": "刚刚",

@@ -414,7 +414,7 @@
   "Refresh PairOnce on the other device to send it files over 2 GB.": "उसे 2 GB से बड़ी फ़ाइलें भेजने के लिए दूसरे डिवाइस पर PairOnce रीफ़्रेश करें।",
   "Send files up to 10 GB with Pro": "Pro के साथ 10 GB तक की फ़ाइलें भेजें",
   "No account, no cloud copy, no tracking cookies. Close the page and what you have not saved can no longer be opened; large files left in this browser are deleted the next time PairOnce opens.": "कोई अकाउंट नहीं, क्लाउड में कोई कॉपी नहीं, कोई ट्रैकिंग कुकी नहीं। पेज बंद करने के बाद जो सेव नहीं किया, वह फिर नहीं खुलेगा; इस ब्राउज़र में बची बड़ी फ़ाइलें अगली बार PairOnce खोलने पर हटा दी जाती हैं।",
-  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.": "PairOnce — आपके डिवाइसों के बीच ब्राउज़र से ब्राउज़र फ़ाइल ट्रांसफ़र। न ऐप, न अकाउंट, सर्वर पर कुछ भी स्टोर नहीं होता।",
+  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.": "PairOnce — आपके डिवाइसों के बीच ब्राउज़र से ब्राउज़र फ़ाइल ट्रांसफ़र। न ऐप, न अकाउंट, फ़ाइलें कभी सर्वर पर स्टोर नहीं होतीं।",
   "New device": "नया डिवाइस",
   "Choose files to send to several devices": "कई डिवाइसों पर भेजने के लिए फ़ाइलें चुनें",
   "just now": "अभी",

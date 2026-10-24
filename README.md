@@ -1,6 +1,6 @@
 # PairOnce interface translations
 
-PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.
+PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.
 
 The words of the [PairOnce](https://paironce.com) interface in its 13 languages. English is the source: each file maps the
 English sentence (the key) to its translation (the value).
@@ -26,7 +26,7 @@ Open a pull request that changes the value, never the key. Keep the `{placeholde
 short: the text has to fit on a phone. Say in the pull request what was wrong, so a native speaker can review it.
 Translations merged here ship with the next paironce.com release.
 
-Version 2.7.0 is the text of paironce.com 2.7.0.
+Version 2.7.1 is the text of paironce.com 2.7.1.
 
 ## License
 

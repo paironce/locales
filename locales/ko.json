@@ -414,7 +414,7 @@
   "Refresh PairOnce on the other device to send it files over 2 GB.": "2GB가 넘는 파일을 보내려면 다른 기기에서 PairOnce를 새로고침하세요.",
   "Send files up to 10 GB with Pro": "Pro로 최대 10GB 파일 보내기",
   "No account, no cloud copy, no tracking cookies. Close the page and what you have not saved can no longer be opened; large files left in this browser are deleted the next time PairOnce opens.": "계정 없음, 클라우드 사본 없음, 추적 쿠키 없음. 페이지를 닫으면 저장하지 않은 내용은 더 이상 열 수 없습니다. 이 브라우저에 남은 큰 파일은 다음에 PairOnce를 열 때 삭제됩니다.",
-  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.": "PairOnce — 내 기기 사이에서 브라우저끼리 파일을 보내는 도구. 앱도 계정도 필요 없고, 서버에는 아무것도 남지 않습니다.",
+  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.": "PairOnce — 내 기기 사이에서 브라우저끼리 파일을 보내는 도구. 앱도 계정도 필요 없고, 파일은 서버에 남지 않습니다.",
   "New device": "새 기기",
   "Choose files to send to several devices": "파일을 골라 여러 기기로 보내기",
   "just now": "방금",

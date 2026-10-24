@@ -414,7 +414,7 @@
   "Refresh PairOnce on the other device to send it files over 2 GB.": "請在另一台裝置上重新整理 PairOnce，才能傳送超過 2 GB 的檔案給它。",
   "Send files up to 10 GB with Pro": "用 Pro 傳送最大 10 GB 的檔案",
   "No account, no cloud copy, no tracking cookies. Close the page and what you have not saved can no longer be opened; large files left in this browser are deleted the next time PairOnce opens.": "無需帳戶，不存雲端，不用追蹤 Cookie。關閉頁面後，沒儲存的內容就打不開了；留在本瀏覽器裡的大檔案，會在下次開啟 PairOnce 時刪除。",
-  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.": "PairOnce——在你的裝置之間，從瀏覽器到瀏覽器傳檔案。無需 App，無需帳戶，伺服器上什麼都不存。",
+  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.": "PairOnce——在你的裝置之間，從瀏覽器到瀏覽器傳檔案。無需 App，無需帳戶，檔案不存在伺服器上。",
   "New device": "新裝置",
   "Choose files to send to several devices": "選擇檔案，傳給多台裝置",
   "just now": "剛剛",

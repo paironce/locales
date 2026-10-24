@@ -414,7 +414,7 @@
   "Refresh PairOnce on the other device to send it files over 2 GB.": "Actualisez PairOnce sur l’autre appareil pour lui envoyer des fichiers de plus de 2 Go.",
   "Send files up to 10 GB with Pro": "Envoyer des fichiers jusqu’à 10 Go avec Pro",
   "No account, no cloud copy, no tracking cookies. Close the page and what you have not saved can no longer be opened; large files left in this browser are deleted the next time PairOnce opens.": "Pas de compte, pas de copie dans le cloud, pas de cookies de suivi. Une fois la page fermée, ce que vous n’avez pas enregistré ne peut plus être ouvert ; les gros fichiers laissés dans ce navigateur sont supprimés à la prochaine ouverture de PairOnce.",
-  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, nothing stored on a server.": "PairOnce — le transfert de fichiers de navigateur à navigateur entre vos appareils. Sans appli, sans compte, rien n’est stocké sur un serveur.",
+  "PairOnce — browser-to-browser file transfer between your devices. No app, no account, files never stored on a server.": "PairOnce — le transfert de fichiers de navigateur à navigateur entre vos appareils. Sans appli, sans compte, aucun fichier stocké sur un serveur.",
   "New device": "Nouvel appareil",
   "Choose files to send to several devices": "Choisir des fichiers à envoyer à plusieurs appareils",
   "just now": "à l’instant",
