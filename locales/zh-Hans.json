@@ -101,7 +101,7 @@
   "Delete batch": "删除文件",
   "Delete this batch?": "删除这批文件？",
   "Deleting…": "正在删除…",
-  "Delivered to {peer}": "已送达{peer}",
+  "Delivered to {peer}": "已送达 {peer}",
   "Delivered · {peer} saved it": "已送达 · 对方已保存",
   "Device to device": "设备到设备",
   "Discard": "放弃",
@@ -662,5 +662,16 @@
   "Between your devices": "在你的设备之间",
   "Privacy & security": "隐私与安全",
   "You approve before anything connects.": "由你批准后才会连接。",
-  "End-to-end encrypted · nothing stored on our servers": "端到端加密 · 服务器上什么都不存"
+  "End-to-end encrypted · nothing stored on our servers": "端到端加密 · 服务器上什么都不存",
+  "End-to-end encrypted · files never stored on our servers": "端到端加密 · 文件不存在我们的服务器上",
+  "Waiting for the other device to accept…": "等待对方接收…",
+  "Delivered": "已送达",
+  "Delivered and saved": "已送达 · 对方已保存",
+  "Connection ended": "连接已结束",
+  "Everything below stays here until you leave this page. Save what you need.": "下面的内容会一直留在这里，直到你离开本页。需要的请先保存。",
+  "Reconnect": "重新连接",
+  "New connection": "开始新连接",
+  "From me": "我发送的",
+  "To me": "发给我的",
+  "Each file goes as soon as you choose it, and {peer} accepts it first. You can also drop files here or type a message below.": "选好文件就会马上发出，{peer} 先确认接收。也可以把文件拖到这里，或在下方输入消息。"
 }
