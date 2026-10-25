@@ -353,7 +353,7 @@
   "Send": "发送",
   "Send 1 file": "发送 1 个文件",
   "Send anything.": "随时发送。",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; nothing is stored on our servers.": "在手机和电脑之间传文件和链接。免费，无需安装，无需注册。浏览器之间加密传输，服务器不保存任何内容。",
+  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "在手机和电脑之间传文件和链接。免费，无需安装，无需注册。浏览器之间加密传输，文件不会存在我们的服务器上。",
   "Send more, or save what you received before you leave.": "可以继续发送；离开前记得保存收到的文件。",
   "Send reset link": "发送重置链接",
   "Send something to {peerLabel}.": "现在可以给{peerLabel}发文件或文字了。",
@@ -707,5 +707,9 @@
   "Send PDF · {count} pages": "发送 PDF · {count} 页",
   "Scan a document": "扫描文档",
   "Take a photo of the page": "拍下这一页",
-  "Choose photos of the pages": "选择页面的照片"
+  "Choose photos of the pages": "选择页面的照片",
+  "Appearance": "外观",
+  "Match device": "跟随设备",
+  "Light": "浅色",
+  "Dark": "深色"
 }

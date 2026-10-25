@@ -122,7 +122,7 @@
   "Received {name}. Save it before you close this page.": "Fichier reçu : {name}. Enregistrez-le avant de fermer cette page.",
   "Transfer stopped. Reconnect to send the remaining files.": "Transfert arrêté. Reconnectez-vous pour envoyer les fichiers restants.",
   "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — Transfert de fichiers gratuit entre appareils",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; nothing is stored on our servers.": "Envoyez fichiers et liens entre téléphone et ordinateur. Gratuit, sans appli ni compte. Chiffré entre vos navigateurs, rien de stocké sur nos serveurs.",
+  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "Envoyez fichiers et liens entre téléphone et ordinateur. Gratuit, sans appli ni compte. Chiffré entre vos navigateurs, aucun fichier stocké sur nos serveurs.",
   "Incoming file {name}": "Fichier entrant : {name}",
   "{peer} wants to send you this file": "{peer} veut vous envoyer ce fichier",
   "Accept": "Accepter",
@@ -479,5 +479,9 @@
   "Send PDF · {count} pages": "Envoyer le PDF · {count} pages",
   "Scan a document": "Scanner un document",
   "Take a photo of the page": "Photographier la page",
-  "Choose photos of the pages": "Choisir les photos des pages"
+  "Choose photos of the pages": "Choisir les photos des pages",
+  "Appearance": "Apparence",
+  "Match device": "Comme l’appareil",
+  "Light": "Clair",
+  "Dark": "Sombre"
 }

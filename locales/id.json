@@ -122,7 +122,7 @@
   "Received {name}. Save it before you close this page.": "File {name} sudah diterima. Simpan sebelum Anda menutup halaman ini.",
   "Transfer stopped. Reconnect to send the remaining files.": "Transfer berhenti. Hubungkan lagi untuk mengirim file yang tersisa.",
   "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — Transfer file gratis antarperangkat, tanpa daftar",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; nothing is stored on our servers.": "Kirim file dan link antara ponsel dan komputer. Gratis, tanpa aplikasi, tanpa daftar. Terenkripsi antarbrowser; tidak ada yang disimpan di server kami.",
+  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "Kirim file dan link antara ponsel dan komputer. Gratis, tanpa aplikasi, tanpa daftar. Terenkripsi antarbrowser; file tidak pernah disimpan di server kami.",
   "Incoming file {name}": "File masuk: {name}",
   "{peer} wants to send you this file": "{peer} ingin mengirim file ini kepada Anda",
   "Accept": "Terima",
@@ -479,5 +479,9 @@
   "Send PDF · {count} pages": "Kirim PDF · {count} halaman",
   "Scan a document": "Pindai dokumen",
   "Take a photo of the page": "Foto halaman ini",
-  "Choose photos of the pages": "Pilih foto halaman"
+  "Choose photos of the pages": "Pilih foto halaman",
+  "Appearance": "Tampilan",
+  "Match device": "Ikuti perangkat",
+  "Light": "Terang",
+  "Dark": "Gelap"
 }

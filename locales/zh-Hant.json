@@ -122,7 +122,7 @@
   "Received {name}. Save it before you close this page.": "已收到 {name}。關閉此頁面前請先儲存。",
   "Transfer stopped. Reconnect to send the remaining files.": "傳輸已停止。重新連線即可傳送剩餘的檔案。",
   "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — 免費跨裝置傳檔案，免註冊",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; nothing is stored on our servers.": "在手機和電腦之間互傳檔案和連結。免費、免安裝 App、免註冊。檔案在瀏覽器之間加密傳輸，我們的伺服器不會儲存任何內容。",
+  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "在手機和電腦之間互傳檔案和連結。免費、免安裝 App、免註冊。檔案在瀏覽器之間加密傳輸，檔案不會存在我們的伺服器上。",
   "Incoming file {name}": "待接收的檔案 {name}",
   "{peer} wants to send you this file": "{peer}想傳給你這個檔案",
   "Accept": "接受",
@@ -479,5 +479,9 @@
   "Send PDF · {count} pages": "傳送 PDF · {count} 頁",
   "Scan a document": "掃描文件",
   "Take a photo of the page": "拍下這一頁",
-  "Choose photos of the pages": "選擇頁面的照片"
+  "Choose photos of the pages": "選擇頁面的照片",
+  "Appearance": "外觀",
+  "Match device": "跟隨裝置",
+  "Light": "淺色",
+  "Dark": "深色"
 }

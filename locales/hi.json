@@ -122,7 +122,7 @@
   "Received {name}. Save it before you close this page.": "{name} फ़ाइल मिल गई। यह पेज बंद करने से पहले इसे सेव कर लें।",
   "Transfer stopped. Reconnect to send the remaining files.": "ट्रांसफ़र रुक गया। बाकी फ़ाइलें भेजने के लिए फिर से कनेक्ट करें।",
   "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — डिवाइस के बीच मुफ़्त फ़ाइल ट्रांसफ़र, बिना साइन-अप",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; nothing is stored on our servers.": "फ़ोन और कंप्यूटर के बीच फ़ाइलें और लिंक भेजें। मुफ़्त, बिना ऐप, बिना साइन-अप। आपके ब्राउज़रों के बीच एन्क्रिप्टेड; हमारे सर्वर पर कुछ भी स्टोर नहीं होता।",
+  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "फ़ोन और कंप्यूटर के बीच फ़ाइलें और लिंक भेजें। मुफ़्त, बिना ऐप, बिना साइन-अप। आपके ब्राउज़रों के बीच एन्क्रिप्टेड; फ़ाइलें हमारे सर्वर पर कभी स्टोर नहीं होतीं।",
   "Incoming file {name}": "आने वाली फ़ाइल {name}",
   "{peer} wants to send you this file": "{peer} आपको यह फ़ाइल भेजना चाहता है",
   "Accept": "स्वीकार करें",
@@ -479,5 +479,9 @@
   "Send PDF · {count} pages": "PDF भेजें · {count} पेज",
   "Scan a document": "दस्तावेज़ स्कैन करें",
   "Take a photo of the page": "पेज की फ़ोटो लें",
-  "Choose photos of the pages": "पेजों की फ़ोटो चुनें"
+  "Choose photos of the pages": "पेजों की फ़ोटो चुनें",
+  "Appearance": "रूप",
+  "Match device": "डिवाइस के अनुसार",
+  "Light": "हल्का",
+  "Dark": "गहरा"
 }

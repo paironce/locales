@@ -122,7 +122,7 @@
   "Received {name}. Save it before you close this page.": "{name}を受信しました。このページを閉じる前に保存してください。",
   "Transfer stopped. Reconnect to send the remaining files.": "転送が停止しました。残りのファイルを送信するには再接続してください。",
   "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — デバイス間の無料ファイル転送（登録不要）",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; nothing is stored on our servers.": "スマートフォンとパソコンの間でファイルやリンクを送信。無料、アプリ不要、登録不要。ブラウザ間で暗号化され、PairOnceのサーバーには何も保存されません。",
+  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "スマートフォンとパソコンの間でファイルやリンクを送信。無料、アプリ不要、登録不要。ブラウザ間で暗号化され、ファイルがPairOnceのサーバーに保存されることはありません。",
   "Incoming file {name}": "受信待ちのファイル、{name}",
   "{peer} wants to send you this file": "{peer}がこのファイルを送信しようとしています",
   "Accept": "受信する",
@@ -479,5 +479,9 @@
   "Send PDF · {count} pages": "PDF を送信 · {count} ページ",
   "Scan a document": "書類をスキャン",
   "Take a photo of the page": "ページを撮影",
-  "Choose photos of the pages": "ページの写真を選ぶ"
+  "Choose photos of the pages": "ページの写真を選ぶ",
+  "Appearance": "表示モード",
+  "Match device": "端末に合わせる",
+  "Light": "ライト",
+  "Dark": "ダーク"
 }
