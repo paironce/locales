@@ -26,7 +26,7 @@ Open a pull request that changes the value, never the key. Keep the `{placeholde
 short: the text has to fit on a phone. Say in the pull request what was wrong, so a native speaker can review it.
 Translations merged here ship with the next paironce.com release.
 
-Version 2.12.0 is the text of paironce.com 2.12.0.
+Version 2.12.1 is the text of paironce.com 2.12.1.
 
 ## License
 
