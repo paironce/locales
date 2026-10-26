@@ -601,5 +601,6 @@
   "Remove {name} from the room": "從房間移除 {name}",
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "結束房間？你在這裡選的檔案會從房間移除，本機上的檔案不會被刪除。",
   "Terms of Service": "服務條款",
-  "Privacy Policy": "隱私權政策"
+  "Privacy Policy": "隱私權政策",
+  "Community": "社群"
 }

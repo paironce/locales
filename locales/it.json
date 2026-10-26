@@ -601,5 +601,6 @@
   "Remove {name} from the room": "Togli {name} dalla stanza",
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "Chiudere la stanza? I file scelti qui escono dalla stanza; da questo dispositivo non viene eliminato nulla.",
   "Terms of Service": "Termini di servizio",
-  "Privacy Policy": "Informativa sulla privacy"
+  "Privacy Policy": "Informativa sulla privacy",
+  "Community": "Community"
 }
