@@ -599,5 +599,7 @@
   "Each device can send and receive 200 MB a month through the relay in total, and this file doesn't fit in what is left. Put both devices on the same Wi-Fi to send it directly, or choose a smaller file.": "Setiap perangkat bisa mengirim dan menerima total 200 MB per bulan lewat relay, dan file ini tidak muat di sisa kuota. Sambungkan kedua perangkat ke Wi-Fi yang sama untuk mengirimnya langsung, atau pilih file yang lebih kecil.",
   "Each device can send and receive 200 MB a month through the relay in total. Put both devices on the same Wi-Fi to send directly, with no such limit.": "Setiap perangkat bisa mengirim dan menerima total 200 MB per bulan lewat relay. Sambungkan kedua perangkat ke Wi-Fi yang sama untuk mengirim langsung, tanpa batas itu.",
   "Remove {name} from the room": "Keluarkan {name} dari ruang",
-  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "Akhiri ruang? File yang Anda pilih di sini keluar dari ruang; tidak ada yang dihapus dari perangkat ini."
+  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "Akhiri ruang? File yang Anda pilih di sini keluar dari ruang; tidak ada yang dihapus dari perangkat ini.",
+  "Terms of Service": "Ketentuan Layanan",
+  "Privacy Policy": "Kebijakan Privasi"
 }

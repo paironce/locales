@@ -827,5 +827,7 @@
   "Each device can send and receive 200 MB a month through the relay in total, and this file doesn't fit in what is left. Put both devices on the same Wi-Fi to send it directly, or choose a smaller file.": "每台设备每月可经中继收发合计 200 MB，剩下的额度装不下这个文件。把两台设备连到同一个 Wi-Fi 就能直接发送，或者换一个更小的文件。",
   "Each device can send and receive 200 MB a month through the relay in total. Put both devices on the same Wi-Fi to send directly, with no such limit.": "每台设备每月可经中继收发合计 200 MB。把两台设备连到同一个 Wi-Fi，就能直接发送，没有这个限制。",
   "Remove {name} from the room": "从房间移除 {name}",
-  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "结束房间？你在这里选的文件会从房间移除，本机上的文件不会被删除。"
+  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "结束房间？你在这里选的文件会从房间移除，本机上的文件不会被删除。",
+  "Terms of Service": "服务条款",
+  "Privacy Policy": "隐私政策"
 }

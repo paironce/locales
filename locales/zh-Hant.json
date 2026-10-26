@@ -599,5 +599,7 @@
   "Each device can send and receive 200 MB a month through the relay in total, and this file doesn't fit in what is left. Put both devices on the same Wi-Fi to send it directly, or choose a smaller file.": "每台裝置每月可經中繼收發合計 200 MB，剩下的額度裝不下這個檔案。把兩台裝置連到同一個 Wi-Fi 就能直接傳送，或者換一個更小的檔案。",
   "Each device can send and receive 200 MB a month through the relay in total. Put both devices on the same Wi-Fi to send directly, with no such limit.": "每台裝置每月可經中繼收發合計 200 MB。把兩台裝置連到同一個 Wi-Fi，就能直接傳送，沒有這個限制。",
   "Remove {name} from the room": "從房間移除 {name}",
-  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "結束房間？你在這裡選的檔案會從房間移除，本機上的檔案不會被刪除。"
+  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "結束房間？你在這裡選的檔案會從房間移除，本機上的檔案不會被刪除。",
+  "Terms of Service": "服務條款",
+  "Privacy Policy": "隱私權政策"
 }

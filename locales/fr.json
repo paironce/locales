@@ -599,5 +599,7 @@
   "Each device can send and receive 200 MB a month through the relay in total, and this file doesn't fit in what is left. Put both devices on the same Wi-Fi to send it directly, or choose a smaller file.": "Chaque appareil peut envoyer et recevoir 200 MB par mois au total via le relais, et ce fichier ne tient pas dans ce qui reste. Mettez les deux appareils sur le même Wi-Fi pour l’envoyer directement, ou choisissez un fichier plus petit.",
   "Each device can send and receive 200 MB a month through the relay in total. Put both devices on the same Wi-Fi to send directly, with no such limit.": "Chaque appareil peut envoyer et recevoir 200 MB par mois au total via le relais. Mettez les deux appareils sur le même Wi-Fi pour envoyer directement, sans cette limite.",
   "Remove {name} from the room": "Retirer {name} de la salle",
-  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "Terminer la salle ? Les fichiers choisis ici quittent la salle ; rien n’est supprimé de cet appareil."
+  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "Terminer la salle ? Les fichiers choisis ici quittent la salle ; rien n’est supprimé de cet appareil.",
+  "Terms of Service": "Conditions d’utilisation",
+  "Privacy Policy": "Politique de confidentialité"
 }

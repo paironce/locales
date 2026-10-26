@@ -599,5 +599,7 @@
   "Each device can send and receive 200 MB a month through the relay in total, and this file doesn't fit in what is left. Put both devices on the same Wi-Fi to send it directly, or choose a smaller file.": "हर डिवाइस रिले से महीने में कुल 200 MB भेज और पा सकता है, और यह फ़ाइल बचे हुए हिस्से में नहीं आती। इसे सीधे भेजने के लिए दोनों डिवाइस एक ही Wi-Fi पर रखें, या छोटी फ़ाइल चुनें।",
   "Each device can send and receive 200 MB a month through the relay in total. Put both devices on the same Wi-Fi to send directly, with no such limit.": "हर डिवाइस रिले से महीने में कुल 200 MB भेज और पा सकता है। बिना इस सीमा के सीधे भेजने के लिए दोनों डिवाइस एक ही Wi-Fi पर रखें।",
   "Remove {name} from the room": "{name} को रूम से हटाएँ",
-  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "रूम ख़त्म करें? यहाँ चुनी गई फ़ाइलें रूम से हट जाएँगी; इस डिवाइस से कुछ भी नहीं मिटेगा।"
+  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "रूम ख़त्म करें? यहाँ चुनी गई फ़ाइलें रूम से हट जाएँगी; इस डिवाइस से कुछ भी नहीं मिटेगा।",
+  "Terms of Service": "सेवा की शर्तें",
+  "Privacy Policy": "गोपनीयता नीति"
 }

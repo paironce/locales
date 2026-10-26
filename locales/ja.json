@@ -599,5 +599,7 @@
   "Each device can send and receive 200 MB a month through the relay in total, and this file doesn't fit in what is left. Put both devices on the same Wi-Fi to send it directly, or choose a smaller file.": "リレーでは各デバイスが送受信合わせて月に 200MB まで使え、このファイルは残りに収まりません。両方のデバイスを同じ Wi-Fi につないで直接送るか、小さいファイルを選んでください。",
   "Each device can send and receive 200 MB a month through the relay in total. Put both devices on the same Wi-Fi to send directly, with no such limit.": "リレーでは各デバイスが送受信合わせて月に 200MB まで使えます。両方のデバイスを同じ Wi-Fi につなげば、この制限なしで直接送れます。",
   "Remove {name} from the room": "{name} をルームから外す",
-  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "ルームを終了しますか？ここで選んだファイルはルームから外れますが、このデバイスからは何も削除されません。"
+  "End the room? The files you chose here leave the room; nothing is deleted from this device.": "ルームを終了しますか？ここで選んだファイルはルームから外れますが、このデバイスからは何も削除されません。",
+  "Terms of Service": "利用規約",
+  "Privacy Policy": "プライバシーポリシー"
 }
