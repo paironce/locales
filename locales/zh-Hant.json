@@ -611,5 +611,10 @@
   "How saved devices work": "已儲存的裝置如何運作",
   "Earlier": "之前",
   "This connection": "本次連線",
-  "In this room": "本房間"
+  "In this room": "本房間",
+  "Relay packs": "流量包",
+  "{size} left in your packs": "流量包還剩 {size}",
+  "Extra relay for when a device's 5 GB for the month runs out.": "某台裝置當月的 5 GB 用完後，用流量包繼續走中繼。",
+  "Your relay pack will appear here within a minute.": "流量包會在一分鐘內顯示在這裡。",
+  "Packs are used after a device's 5 GB for the month, last as long as this Pro license and end with it, and are not refundable.": "流量包在每台裝置當月 5 GB 用完後使用，在這個 Pro 授權有效期內可用，Pro 結束即作廢，不可退款。"
 }

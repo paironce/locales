@@ -611,5 +611,10 @@
   "How saved devices work": "So funktionieren gespeicherte Geräte",
   "Earlier": "Früher",
   "This connection": "Diese Verbindung",
-  "In this room": "In diesem Raum"
+  "In this room": "In diesem Raum",
+  "Relay packs": "Relay-Pakete",
+  "{size} left in your packs": "Noch {size} in deinen Paketen",
+  "Extra relay for when a device's 5 GB for the month runs out.": "Zusätzliches Relay, wenn die 5 GB eines Geräts für den Monat aufgebraucht sind.",
+  "Your relay pack will appear here within a minute.": "Dein Relay-Paket erscheint hier innerhalb einer Minute.",
+  "Packs are used after a device's 5 GB for the month, last as long as this Pro license and end with it, and are not refundable.": "Pakete werden nach den 5 GB eines Geräts im Monat genutzt, gelten so lange wie diese Pro-Lizenz, enden mit ihr und werden nicht erstattet."
 }

@@ -611,5 +611,10 @@
   "How saved devices work": "保存したデバイスのしくみ",
   "Earlier": "以前",
   "This connection": "今回の接続",
-  "In this room": "このルーム"
+  "In this room": "このルーム",
+  "Relay packs": "リレーパック",
+  "{size} left in your packs": "パックの残り {size}",
+  "Extra relay for when a device's 5 GB for the month runs out.": "デバイスの今月の 5 GB を使い切ったときの追加リレーです。",
+  "Your relay pack will appear here within a minute.": "リレーパックは 1 分以内にここに表示されます。",
+  "Packs are used after a device's 5 GB for the month, last as long as this Pro license and end with it, and are not refundable.": "パックは各デバイスの今月の 5 GB を使い切った後に使われ、この Pro ライセンスが有効な間だけ使え、終了とともに消え、返金はできません。"
 }

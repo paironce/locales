@@ -611,5 +611,10 @@
   "How saved devices work": "Cara kerja perangkat tersimpan",
   "Earlier": "Sebelumnya",
   "This connection": "Koneksi ini",
-  "In this room": "Di ruang ini"
+  "In this room": "Di ruang ini",
+  "Relay packs": "Paket relay",
+  "{size} left in your packs": "Sisa {size} di paket Anda",
+  "Extra relay for when a device's 5 GB for the month runs out.": "Relay tambahan saat 5 GB bulanan sebuah perangkat habis.",
+  "Your relay pack will appear here within a minute.": "Paket relay Anda akan muncul di sini dalam satu menit.",
+  "Packs are used after a device's 5 GB for the month, last as long as this Pro license and end with it, and are not refundable.": "Paket dipakai setelah 5 GB bulanan sebuah perangkat, berlaku selama lisensi Pro ini, berakhir bersamanya, dan tidak dapat dikembalikan dananya."
 }

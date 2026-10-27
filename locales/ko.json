@@ -611,5 +611,10 @@
   "How saved devices work": "저장된 기기 작동 방식",
   "Earlier": "이전",
   "This connection": "이번 연결",
-  "In this room": "이 룸"
+  "In this room": "이 룸",
+  "Relay packs": "릴레이 팩",
+  "{size} left in your packs": "팩에 {size} 남음",
+  "Extra relay for when a device's 5 GB for the month runs out.": "기기의 이번 달 5GB를 다 쓴 뒤를 위한 추가 릴레이입니다.",
+  "Your relay pack will appear here within a minute.": "릴레이 팩은 1분 안에 여기에 표시됩니다.",
+  "Packs are used after a device's 5 GB for the month, last as long as this Pro license and end with it, and are not refundable.": "팩은 각 기기의 이번 달 5GB를 다 쓴 뒤에 사용되며, 이 Pro 라이선스가 유지되는 동안만 쓸 수 있고 함께 끝나며, 환불되지 않습니다."
 }

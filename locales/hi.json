@@ -611,5 +611,10 @@
   "How saved devices work": "सहेजे गए डिवाइस कैसे काम करते हैं",
   "Earlier": "पहले",
   "This connection": "यह कनेक्शन",
-  "In this room": "इस रूम में"
+  "In this room": "इस रूम में",
+  "Relay packs": "रिले पैक",
+  "{size} left in your packs": "आपके पैक में {size} बचे हैं",
+  "Extra relay for when a device's 5 GB for the month runs out.": "जब किसी डिवाइस के महीने के 5 GB ख़त्म हो जाएँ, तब के लिए अतिरिक्त रिले।",
+  "Your relay pack will appear here within a minute.": "आपका रिले पैक एक मिनट के भीतर यहाँ दिखेगा।",
+  "Packs are used after a device's 5 GB for the month, last as long as this Pro license and end with it, and are not refundable.": "पैक किसी डिवाइस के महीने के 5 GB के बाद इस्तेमाल होते हैं, इस Pro लाइसेंस तक चलते हैं, उसी के साथ ख़त्म होते हैं और इनका रिफ़ंड नहीं होता।"
 }
