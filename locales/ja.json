@@ -91,8 +91,8 @@
   "Declined by the other device": "相手のデバイスに拒否されました",
   "The other device is busy": "相手のデバイスが受信できない状態です",
   "Its page may be full. Ask them to save and remove received files, then retry.": "相手のページの容量がいっぱいの可能性があります。受信済みのファイルを保存して削除してもらってから、再試行してください。",
-  "No answer from the other device": "相手のデバイスから応答がありません",
-  "Ask them to accept the file, then retry.": "相手側で「受信する」をタップしてもらってから、再試行してください。",
+  "Not accepted in time": "時間内に受信されませんでした",
+  "The other device didn't accept within 3 minutes. Keep PairOnce open there, then retry and tap Accept.": "もう一方のデバイスで 3 分以内に「受信する」がタップされませんでした。そちらで PairOnce を開いたままにして、もう一度送信し「受信する」をタップしてください。",
   "This file can't be read": "このファイルを読み込めません",
   "Choose the original file again.": "元のファイルをもう一度選択してください。",
   "The file arrived damaged": "ファイルが破損した状態で届きました",
@@ -608,5 +608,8 @@
   "Remove from this browser": "このブラウザから削除",
   "Show fewer": "表示を減らす",
   "Show all {count} devices": "{count} 台すべて表示",
-  "How saved devices work": "保存したデバイスのしくみ"
+  "How saved devices work": "保存したデバイスのしくみ",
+  "Earlier": "以前",
+  "This connection": "今回の接続",
+  "In this room": "このルーム"
 }

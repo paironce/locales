@@ -91,8 +91,8 @@
   "Declined by the other device": "Rifiutato dall'altro dispositivo",
   "The other device is busy": "L'altro dispositivo è occupato",
   "Its page may be full. Ask them to save and remove received files, then retry.": "La sua pagina potrebbe essere piena. Chiedi di salvare e rimuovere lì i file ricevuti, poi riprova.",
-  "No answer from the other device": "Nessuna risposta dall'altro dispositivo",
-  "Ask them to accept the file, then retry.": "Chiedi di accettare il file sull'altro dispositivo, poi riprova.",
+  "Not accepted in time": "Non accettato in tempo",
+  "The other device didn't accept within 3 minutes. Keep PairOnce open there, then retry and tap Accept.": "L’altro dispositivo non ha accettato entro 3 minuti. Tieni PairOnce aperto lì, riprova e tocca Accetta.",
   "This file can't be read": "Impossibile leggere questo file",
   "Choose the original file again.": "Scegli di nuovo il file originale.",
   "The file arrived damaged": "Il file è arrivato danneggiato",
@@ -608,5 +608,8 @@
   "Remove from this browser": "Rimuovi da questo browser",
   "Show fewer": "Mostra meno",
   "Show all {count} devices": "Mostra tutti i {count} dispositivi",
-  "How saved devices work": "Come funzionano i dispositivi salvati"
+  "How saved devices work": "Come funzionano i dispositivi salvati",
+  "Earlier": "Prima",
+  "This connection": "Questa connessione",
+  "In this room": "In questa stanza"
 }

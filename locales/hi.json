@@ -91,8 +91,8 @@
   "Declined by the other device": "दूसरे डिवाइस ने अस्वीकार किया",
   "The other device is busy": "दूसरा डिवाइस व्यस्त है",
   "Its page may be full. Ask them to save and remove received files, then retry.": "हो सकता है उसका पेज भर गया हो। उनसे कहें कि मिली हुई फ़ाइलें सेव करके हटा दें, फिर दोबारा कोशिश करें।",
-  "No answer from the other device": "दूसरे डिवाइस से कोई जवाब नहीं मिला",
-  "Ask them to accept the file, then retry.": "उनसे फ़ाइल स्वीकार करने को कहें, फिर दोबारा कोशिश करें।",
+  "Not accepted in time": "समय पर स्वीकार नहीं हुआ",
+  "The other device didn't accept within 3 minutes. Keep PairOnce open there, then retry and tap Accept.": "दूसरे डिवाइस ने 3 मिनट के भीतर स्वीकार नहीं किया। वहाँ PairOnce खुला रखें, फिर दोबारा कोशिश करें और स्वीकार करें पर टैप करें।",
   "This file can't be read": "यह फ़ाइल पढ़ी नहीं जा सकती",
   "Choose the original file again.": "मूल फ़ाइल फिर से चुनें।",
   "The file arrived damaged": "फ़ाइल खराब होकर पहुँची",
@@ -608,5 +608,8 @@
   "Remove from this browser": "इस ब्राउज़र से हटाएँ",
   "Show fewer": "कम दिखाएँ",
   "Show all {count} devices": "सभी {count} डिवाइस दिखाएँ",
-  "How saved devices work": "सहेजे गए डिवाइस कैसे काम करते हैं"
+  "How saved devices work": "सहेजे गए डिवाइस कैसे काम करते हैं",
+  "Earlier": "पहले",
+  "This connection": "यह कनेक्शन",
+  "In this room": "इस रूम में"
 }

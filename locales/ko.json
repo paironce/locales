@@ -91,8 +91,8 @@
   "Declined by the other device": "상대 기기에서 거절함",
   "The other device is busy": "상대 기기가 지금 받을 수 없어요",
   "Its page may be full. Ask them to save and remove received files, then retry.": "상대 페이지의 공간이 가득 찼을 수 있어요. 받은 파일을 저장하고 삭제해 달라고 한 다음 다시 시도하세요.",
-  "No answer from the other device": "상대 기기에서 응답이 없어요",
-  "Ask them to accept the file, then retry.": "상대 기기에서 파일을 수락해 달라고 한 다음 다시 시도하세요.",
+  "Not accepted in time": "제시간에 수락되지 않음",
+  "The other device didn't accept within 3 minutes. Keep PairOnce open there, then retry and tap Accept.": "다른 기기에서 3분 안에 수락하지 않았습니다. 그쪽에서 PairOnce를 연 채로 두고 다시 시도한 뒤 수락을 탭하세요.",
   "This file can't be read": "파일을 읽을 수 없어요",
   "Choose the original file again.": "원본 파일을 다시 선택하세요.",
   "The file arrived damaged": "파일이 손상된 채로 도착했어요",
@@ -608,5 +608,8 @@
   "Remove from this browser": "이 브라우저에서 삭제",
   "Show fewer": "간단히 보기",
   "Show all {count} devices": "기기 {count}대 모두 보기",
-  "How saved devices work": "저장된 기기 작동 방식"
+  "How saved devices work": "저장된 기기 작동 방식",
+  "Earlier": "이전",
+  "This connection": "이번 연결",
+  "In this room": "이 룸"
 }

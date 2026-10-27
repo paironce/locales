@@ -91,8 +91,8 @@
   "Declined by the other device": "Ditolak oleh perangkat lain",
   "The other device is busy": "Perangkat lain sedang sibuk",
   "Its page may be full. Ask them to save and remove received files, then retry.": "Halamannya mungkin sudah penuh. Minta agar file yang diterima di sana disimpan lalu dihapus, kemudian coba lagi.",
-  "No answer from the other device": "Tidak ada jawaban dari perangkat lain",
-  "Ask them to accept the file, then retry.": "Minta agar file diterima di sana, lalu coba lagi.",
+  "Not accepted in time": "Tidak diterima tepat waktu",
+  "The other device didn't accept within 3 minutes. Keep PairOnce open there, then retry and tap Accept.": "Perangkat lain tidak menerima dalam 3 menit. Biarkan PairOnce terbuka di sana, lalu coba lagi dan ketuk Terima.",
   "This file can't be read": "File ini tidak dapat dibaca",
   "Choose the original file again.": "Pilih lagi file aslinya.",
   "The file arrived damaged": "File yang diterima rusak",
@@ -608,5 +608,8 @@
   "Remove from this browser": "Hapus dari browser ini",
   "Show fewer": "Tampilkan lebih sedikit",
   "Show all {count} devices": "Tampilkan semua {count} perangkat",
-  "How saved devices work": "Cara kerja perangkat tersimpan"
+  "How saved devices work": "Cara kerja perangkat tersimpan",
+  "Earlier": "Sebelumnya",
+  "This connection": "Koneksi ini",
+  "In this room": "Di ruang ini"
 }

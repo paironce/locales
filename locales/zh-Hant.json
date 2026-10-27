@@ -91,8 +91,8 @@
   "Declined by the other device": "另一台裝置已拒絕接收",
   "The other device is busy": "另一台裝置目前無法接收",
   "Its page may be full. Ask them to save and remove received files, then retry.": "對方的頁面可能已滿。請對方儲存並移除已收到的檔案，然後再重試。",
-  "No answer from the other device": "另一台裝置沒有回應",
-  "Ask them to accept the file, then retry.": "請對方接受檔案，然後再重試。",
+  "Not accepted in time": "對方沒有及時接受",
+  "The other device didn't accept within 3 minutes. Keep PairOnce open there, then retry and tap Accept.": "另一台裝置 3 分鐘內沒有點「接受」。請讓那台裝置保持 PairOnce 開啟，然後重試並點「接受」。",
   "This file can't be read": "無法讀取這個檔案",
   "Choose the original file again.": "請重新選擇原始檔案。",
   "The file arrived damaged": "收到的檔案已損毀",
@@ -608,5 +608,8 @@
   "Remove from this browser": "從此瀏覽器移除",
   "Show fewer": "收合",
   "Show all {count} devices": "顯示全部 {count} 台裝置",
-  "How saved devices work": "已儲存的裝置如何運作"
+  "How saved devices work": "已儲存的裝置如何運作",
+  "Earlier": "之前",
+  "This connection": "本次連線",
+  "In this room": "本房間"
 }

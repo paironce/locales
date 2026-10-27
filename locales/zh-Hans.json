@@ -28,7 +28,7 @@
   "Approve device": "批准连接",
   "Approve only if you recognise it.": "确认是你自己的设备再批准。",
   "Approved. Finishing the secure connection…": "已批准，正在完成安全连接…",
-  "Ask them to accept the file, then retry.": "请对方接受文件后重试。",
+  "The other device didn't accept within 3 minutes. Keep PairOnce open there, then retry and tap Accept.": "另一台设备 3 分钟内没有点“接收”。请让那台设备保持 PairOnce 打开，然后重试并点“接收”。",
   "Availability could not be confirmed. Refresh to check.": "尚不能确认是否可用，请刷新查看。",
   "Available on your devices": "在你的设备上取回",
   "Back to files": "返回文件任务",
@@ -216,7 +216,7 @@
   "New downloads blocked": "已停止接受新下载",
   "New password": "新密码",
   "Next time": "下次使用",
-  "No answer from the other device": "对方没有响应",
+  "Not accepted in time": "对方没有及时接收",
   "No. PairOnce runs in the browser on both devices. There is nothing to install and no sign-up.": "不需要。PairOnce 直接在两台设备的浏览器中运行，无需安装，无需注册。",
   "No. There is no cloud storage. Files go to your other device, directly or through a relay that keeps nothing, and wait in its page until you save them.": "不会。PairOnce 没有云存储。文件直接传到你的另一台设备，或经过不保存任何内容的中继服务器转过去；在你保存之前，它暂时放在接收方的页面里。",
   "Nobody approved the connection in time. Start again on both devices.": "对方没有及时确认。请在两台设备上重新开始。",
@@ -836,5 +836,8 @@
   "Remove from this browser": "从此浏览器移除",
   "Show fewer": "收起",
   "Show all {count} devices": "显示全部 {count} 台设备",
-  "How saved devices work": "已保存的设备如何工作"
+  "How saved devices work": "已保存的设备如何工作",
+  "Earlier": "之前",
+  "This connection": "本次连接",
+  "In this room": "本房间"
 }
