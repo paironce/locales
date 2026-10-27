@@ -609,7 +609,6 @@
   "home fact|Free": "मुफ़्त",
   "plan|Free": "मुफ़्त",
   "plan|Pro": "Pro",
-  "First time: three steps. After that: one tap.": "पहली बार तीन क़दम। उसके बाद एक टैप।",
   "Scan the QR code, or type the six digits.": "QR कोड स्कैन करें, या छह अंक टाइप करें।",
   "Both screens show the same safety code.": "दोनों स्क्रीन पर एक ही सुरक्षा कोड दिखता है।",
   "The other side accepts, then saves.": "दूसरी तरफ़ स्वीकार करके सेव करते हैं।",
@@ -630,5 +629,9 @@
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "अगर नेटवर्क इसे रोकता है, तो रिले सिर्फ़ एन्क्रिप्टेड डेटा आगे भेजता है और कुछ नहीं रखता।",
   "No account, no cloud copy. We can’t see your files or messages.": "न अकाउंट, न क्लाउड में कॉपी। हम आपकी फ़ाइलें या मैसेज नहीं देख सकते।",
   "Sending to a whole room?": "पूरे कमरे को भेजना है?",
-  "Open a distribution room": "डिस्ट्रिब्यूशन रूम खोलें"
+  "Open a distribution room": "डिस्ट्रिब्यूशन रूम खोलें",
+  "The phone’s camera shown live on the computer, with a button to take a full photo": "फ़ोन का कैमरा कंप्यूटर पर लाइव, पूरी फ़ोटो लेने के बटन के साथ",
+  "A page photographed on the phone with its corners found, and the PDF received on the computer": "फ़ोन पर खींचा गया पन्ना, कोने पहचाने गए, और कंप्यूटर पर मिली PDF",
+  "Text copied on the computer, ready to paste on the phone": "कंप्यूटर पर कॉपी किया टेक्स्ट, फ़ोन पर पेस्ट करने के लिए तैयार",
+  "A distribution room on the computer and two phones that received the same file": "कंप्यूटर पर डिस्ट्रिब्यूशन रूम और वही फ़ाइल पाने वाले दो फ़ोन"
 }

@@ -609,7 +609,6 @@
   "home fact|Free": "Grátis",
   "plan|Free": "Grátis",
   "plan|Pro": "Pro",
-  "First time: three steps. After that: one tap.": "Na primeira vez, três passos. Depois, um toque.",
   "Scan the QR code, or type the six digits.": "Escaneie o QR code ou digite os seis dígitos.",
   "Both screens show the same safety code.": "As duas telas mostram o mesmo código de segurança.",
   "The other side accepts, then saves.": "O outro lado aceita e salva.",
@@ -630,5 +629,9 @@
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "Se a rede bloquear isso, um servidor de retransmissão repassa os dados criptografados e não guarda nada.",
   "No account, no cloud copy. We can’t see your files or messages.": "Sem conta, sem cópia na nuvem. Não conseguimos ver seus arquivos nem suas mensagens.",
   "Sending to a whole room?": "Vai enviar para uma sala inteira?",
-  "Open a distribution room": "Abrir uma sala de distribuição"
+  "Open a distribution room": "Abrir uma sala de distribuição",
+  "The phone’s camera shown live on the computer, with a button to take a full photo": "A câmera do celular ao vivo no computador, com um botão para tirar uma foto completa",
+  "A page photographed on the phone with its corners found, and the PDF received on the computer": "Uma página fotografada no celular com os cantos encontrados e o PDF recebido no computador",
+  "Text copied on the computer, ready to paste on the phone": "Texto copiado no computador, pronto para colar no celular",
+  "A distribution room on the computer and two phones that received the same file": "Uma sala de distribuição no computador e dois celulares que receberam o mesmo arquivo"
 }

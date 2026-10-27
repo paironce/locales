@@ -609,7 +609,6 @@
   "home fact|Free": "無料",
   "plan|Free": "無料",
   "plan|Pro": "Pro",
-  "First time: three steps. After that: one tap.": "最初は3ステップ。次からはワンタップ。",
   "Scan the QR code, or type the six digits.": "QRコードをスキャンするか、6桁の数字を入力します。",
   "Both screens show the same safety code.": "両方の画面に同じ安全確認コードが表示されます。",
   "The other side accepts, then saves.": "相手が受け取りを許可して、保存します。",
@@ -630,5 +629,9 @@
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "ネットワークに阻まれた場合は、中継が暗号化されたデータを受け渡すだけで、何も保持しません。",
   "No account, no cloud copy. We can’t see your files or messages.": "アカウントもクラウドのコピーもありません。ファイルやメッセージを私たちが見ることはできません。",
   "Sending to a whole room?": "部屋にいる全員に送りたいですか？",
-  "Open a distribution room": "配布ルームを開く"
+  "Open a distribution room": "配布ルームを開く",
+  "The phone’s camera shown live on the computer, with a button to take a full photo": "スマホのカメラ映像がパソコンにライブ表示され、フル解像度の写真を撮るボタンがある",
+  "A page photographed on the phone with its corners found, and the PDF received on the computer": "スマホで撮ったページの四隅が検出され、パソコンに PDF が届いている",
+  "Text copied on the computer, ready to paste on the phone": "パソコンでコピーしたテキストを、スマホでワンタップで貼り付けられる",
+  "A distribution room on the computer and two phones that received the same file": "パソコンの配布ルームと、同じファイルを受け取った 2 台のスマホ"
 }

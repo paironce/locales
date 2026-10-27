@@ -609,7 +609,6 @@
   "home fact|Free": "免費",
   "plan|Free": "免費版",
   "plan|Pro": "Pro",
-  "First time: three steps. After that: one tap.": "第一次三步，之後一點就連。",
   "Scan the QR code, or type the six digits.": "掃描 QR Code，或輸入六位數字。",
   "Both screens show the same safety code.": "兩台裝置顯示同一組安全碼。",
   "The other side accepts, then saves.": "對方接受，然後儲存。",
@@ -630,5 +629,9 @@
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "網路擋住直連時，由中繼轉發加密資料，不保存任何內容。",
   "No account, no cloud copy. We can’t see your files or messages.": "不用帳號，雲端不留副本。我們看不到你的檔案和訊息。",
   "Sending to a whole room?": "要傳給整個房間的人？",
-  "Open a distribution room": "開一個分發房間"
+  "Open a distribution room": "開一個分發房間",
+  "The phone’s camera shown live on the computer, with a button to take a full photo": "手機相機的畫面即時顯示在電腦上，旁邊有拍原圖的按鈕",
+  "A page photographed on the phone with its corners found, and the PDF received on the computer": "手機拍下紙頁並找到四個角，電腦收到產生的 PDF",
+  "Text copied on the computer, ready to paste on the phone": "電腦上複製的文字，在手機上一點就能貼上",
+  "A distribution room on the computer and two phones that received the same file": "電腦上的分發房間，兩台手機收到了同一個檔案"
 }

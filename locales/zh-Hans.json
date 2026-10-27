@@ -837,7 +837,6 @@
   "home fact|Free": "免费",
   "plan|Free": "免费版",
   "plan|Pro": "Pro",
-  "First time: three steps. After that: one tap.": "第一次三步，以后一点就连。",
   "Scan the QR code, or type the six digits.": "扫描二维码，或输入六位数字。",
   "Both screens show the same safety code.": "两台设备显示同一个安全码。",
   "The other side accepts, then saves.": "对方接受，然后保存。",
@@ -858,5 +857,9 @@
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "网络挡住直连时，由中继转发加密数据，不保存任何内容。",
   "No account, no cloud copy. We can’t see your files or messages.": "不用账号，云端不留副本。我们看不到你的文件和消息。",
   "Sending to a whole room?": "要发给整屋子的人？",
-  "Open a distribution room": "开一个分发房间"
+  "Open a distribution room": "开一个分发房间",
+  "The phone’s camera shown live on the computer, with a button to take a full photo": "手机摄像头的画面实时显示在电脑上，旁边有拍原图的按钮",
+  "A page photographed on the phone with its corners found, and the PDF received on the computer": "手机拍下纸页并找到四个角，电脑收到生成的 PDF",
+  "Text copied on the computer, ready to paste on the phone": "电脑上复制的文字，在手机上一点就能粘贴",
+  "A distribution room on the computer and two phones that received the same file": "电脑上的分发房间，两台手机收到了同一个文件"
 }

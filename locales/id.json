@@ -609,7 +609,6 @@
   "home fact|Free": "Gratis",
   "plan|Free": "Gratis",
   "plan|Pro": "Pro",
-  "First time: three steps. After that: one tap.": "Pertama kali tiga langkah. Selanjutnya satu ketukan.",
   "Scan the QR code, or type the six digits.": "Pindai kode QR, atau ketik enam digitnya.",
   "Both screens show the same safety code.": "Kedua layar menampilkan kode keamanan yang sama.",
   "The other side accepts, then saves.": "Pihak lain menerima, lalu menyimpan.",
@@ -630,5 +629,9 @@
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "Jika jaringan memblokirnya, server perantara meneruskan data terenkripsi tanpa menyimpan apa pun.",
   "No account, no cloud copy. We can’t see your files or messages.": "Tanpa akun, tanpa salinan di cloud. Kami tidak bisa melihat file atau pesan Anda.",
   "Sending to a whole room?": "Mau mengirim ke satu ruangan penuh?",
-  "Open a distribution room": "Buka ruang distribusi"
+  "Open a distribution room": "Buka ruang distribusi",
+  "The phone’s camera shown live on the computer, with a button to take a full photo": "Kamera ponsel tampil langsung di komputer, dengan tombol untuk mengambil foto penuh",
+  "A page photographed on the phone with its corners found, and the PDF received on the computer": "Halaman yang difoto di ponsel dengan sudut-sudutnya terdeteksi, dan PDF diterima di komputer",
+  "Text copied on the computer, ready to paste on the phone": "Teks yang disalin di komputer, siap ditempel di ponsel",
+  "A distribution room on the computer and two phones that received the same file": "Ruang distribusi di komputer dan dua ponsel yang menerima file yang sama"
 }
