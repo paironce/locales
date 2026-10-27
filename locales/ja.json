@@ -185,7 +185,6 @@
   "Used yesterday": "昨日使用",
   "Used {days} days ago": "{days}日前に使用",
   "Your devices": "ペアリング済みのデバイス",
-  "Open PairOnce on both, then tap Connect on each.": "両方でPairOnceを開き、それぞれで「接続」をタップしてください。",
   "Wants to connect": "接続を求めています",
   "Open now": "現在開いています",
   "Remove": "削除",
@@ -602,5 +601,12 @@
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "ルームを終了しますか？ここで選んだファイルはルームから外れますが、このデバイスからは何も削除されません。",
   "Terms of Service": "利用規約",
   "Privacy Policy": "プライバシーポリシー",
-  "Community": "コミュニティ"
+  "Community": "コミュニティ",
+  "Auto": "自動",
+  "Rename": "名前を変更",
+  "Options for {name}": "{name} のオプション",
+  "Remove from this browser": "このブラウザから削除",
+  "Show fewer": "表示を減らす",
+  "Show all {count} devices": "{count} 台すべて表示",
+  "How saved devices work": "保存したデバイスのしくみ"
 }

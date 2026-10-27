@@ -185,7 +185,6 @@
   "Used yesterday": "昨天使用過",
   "Used {days} days ago": "{days} 天前使用過",
   "Your devices": "你的裝置",
-  "Open PairOnce on both, then tap Connect on each.": "在兩台裝置上開啟 PairOnce，然後各自點選「連線」。",
   "Wants to connect": "想要連線",
   "Open now": "目前開啟中",
   "Remove": "移除",
@@ -602,5 +601,12 @@
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "結束房間？你在這裡選的檔案會從房間移除，本機上的檔案不會被刪除。",
   "Terms of Service": "服務條款",
   "Privacy Policy": "隱私權政策",
-  "Community": "社群"
+  "Community": "社群",
+  "Auto": "自動",
+  "Rename": "重新命名",
+  "Options for {name}": "{name} 的選項",
+  "Remove from this browser": "從此瀏覽器移除",
+  "Show fewer": "收合",
+  "Show all {count} devices": "顯示全部 {count} 台裝置",
+  "How saved devices work": "已儲存的裝置如何運作"
 }

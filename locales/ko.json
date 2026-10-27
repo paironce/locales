@@ -185,7 +185,6 @@
   "Used yesterday": "어제 사용",
   "Used {days} days ago": "{days}일 전 사용",
   "Your devices": "내 기기",
-  "Open PairOnce on both, then tap Connect on each.": "두 기기에서 PairOnce를 연 다음, 각각 ‘연결’을 누르세요.",
   "Wants to connect": "연결 요청 중",
   "Open now": "지금 열려 있음",
   "Remove": "삭제",
@@ -602,5 +601,12 @@
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "룸을 종료할까요? 여기서 고른 파일은 룸에서 빠지지만, 이 기기에서 삭제되는 것은 없습니다.",
   "Terms of Service": "이용약관",
   "Privacy Policy": "개인정보 처리방침",
-  "Community": "커뮤니티"
+  "Community": "커뮤니티",
+  "Auto": "자동",
+  "Rename": "이름 바꾸기",
+  "Options for {name}": "{name} 옵션",
+  "Remove from this browser": "이 브라우저에서 삭제",
+  "Show fewer": "간단히 보기",
+  "Show all {count} devices": "기기 {count}대 모두 보기",
+  "How saved devices work": "저장된 기기 작동 방식"
 }

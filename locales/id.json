@@ -185,7 +185,6 @@
   "Used yesterday": "Digunakan kemarin",
   "Used {days} days ago": "Digunakan {days} hari lalu",
   "Your devices": "Perangkat Anda",
-  "Open PairOnce on both, then tap Connect on each.": "Buka PairOnce di kedua perangkat, lalu ketuk Hubungkan di masing-masing.",
   "Wants to connect": "Ingin terhubung",
   "Open now": "Sedang terbuka",
   "Remove": "Hapus",
@@ -602,5 +601,12 @@
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "Akhiri ruang? File yang Anda pilih di sini keluar dari ruang; tidak ada yang dihapus dari perangkat ini.",
   "Terms of Service": "Ketentuan Layanan",
   "Privacy Policy": "Kebijakan Privasi",
-  "Community": "Komunitas"
+  "Community": "Komunitas",
+  "Auto": "Otomatis",
+  "Rename": "Ganti nama",
+  "Options for {name}": "Opsi untuk {name}",
+  "Remove from this browser": "Hapus dari browser ini",
+  "Show fewer": "Tampilkan lebih sedikit",
+  "Show all {count} devices": "Tampilkan semua {count} perangkat",
+  "How saved devices work": "Cara kerja perangkat tersimpan"
 }

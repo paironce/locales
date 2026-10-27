@@ -185,7 +185,6 @@
   "Used yesterday": "कल इस्तेमाल हुआ",
   "Used {days} days ago": "{days} दिन पहले इस्तेमाल हुआ",
   "Your devices": "आपके डिवाइस",
-  "Open PairOnce on both, then tap Connect on each.": "दोनों पर PairOnce खोलें, फिर हर एक पर “कनेक्ट करें” टैप करें।",
   "Wants to connect": "कनेक्ट होना चाहता है",
   "Open now": "अभी खुला है",
   "Remove": "हटाएँ",
@@ -602,5 +601,12 @@
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "रूम ख़त्म करें? यहाँ चुनी गई फ़ाइलें रूम से हट जाएँगी; इस डिवाइस से कुछ भी नहीं मिटेगा।",
   "Terms of Service": "सेवा की शर्तें",
   "Privacy Policy": "गोपनीयता नीति",
-  "Community": "समुदाय"
+  "Community": "समुदाय",
+  "Auto": "स्वचालित",
+  "Rename": "नाम बदलें",
+  "Options for {name}": "{name} के विकल्प",
+  "Remove from this browser": "इस ब्राउज़र से हटाएँ",
+  "Show fewer": "कम दिखाएँ",
+  "Show all {count} devices": "सभी {count} डिवाइस दिखाएँ",
+  "How saved devices work": "सहेजे गए डिवाइस कैसे काम करते हैं"
 }

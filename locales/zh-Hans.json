@@ -233,7 +233,6 @@
   "Open now": "已打开",
   "Open PairOnce on both devices. Scan the QR code, or type the six-digit code.": "两台设备都打开 PairOnce。扫描二维码，或输入六位连接码。",
   "Open PairOnce on both devices. Scan the QR code, or type the six-digit code. Check that both screens show the same safety code, then approve.": "两台设备都打开 PairOnce。扫码或输入六位连接码，确认两边显示的安全码一致后批准。",
-  "Open PairOnce on both, then tap Connect on each.": "两台设备都打开 PairOnce，然后分别点“连接”。",
   "Open PairOnce on {peerLabel} and tap Connect there.": "请在{peerLabel}上打开 PairOnce 并点“连接”。",
   "Open PairOnce on {peerLabel}, then tap Connect next to this device.": "请在{peerLabel}上打开 PairOnce，然后点本机旁的“连接”。",
   "Open the verification email before uploading or downloading account files. If files are selected here, keep this tab open and use another tab for the link.": "上传或下载账户文件前，请先打开验证邮件。如果这里已选好文件，请保持本页打开，并在另一标签页打开验证链接。",
@@ -830,5 +829,12 @@
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "结束房间？你在这里选的文件会从房间移除，本机上的文件不会被删除。",
   "Terms of Service": "服务条款",
   "Privacy Policy": "隐私政策",
-  "Community": "社区"
+  "Community": "社区",
+  "Auto": "自动",
+  "Rename": "重命名",
+  "Options for {name}": "{name} 的选项",
+  "Remove from this browser": "从此浏览器移除",
+  "Show fewer": "收起",
+  "Show all {count} devices": "显示全部 {count} 台设备",
+  "How saved devices work": "已保存的设备如何工作"
 }

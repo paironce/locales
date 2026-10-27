@@ -185,7 +185,6 @@
   "Used yesterday": "Usato ieri",
   "Used {days} days ago": "Usato {days} giorni fa",
   "Your devices": "I tuoi dispositivi",
-  "Open PairOnce on both, then tap Connect on each.": "Apri PairOnce su entrambi, poi tocca «Connetti» su ciascuno.",
   "Wants to connect": "Vuole connettersi",
   "Open now": "Attivo ora",
   "Remove": "Rimuovi",
@@ -602,5 +601,12 @@
   "End the room? The files you chose here leave the room; nothing is deleted from this device.": "Chiudere la stanza? I file scelti qui escono dalla stanza; da questo dispositivo non viene eliminato nulla.",
   "Terms of Service": "Termini di servizio",
   "Privacy Policy": "Informativa sulla privacy",
-  "Community": "Community"
+  "Community": "Community",
+  "Auto": "Auto",
+  "Rename": "Rinomina",
+  "Options for {name}": "Opzioni per {name}",
+  "Remove from this browser": "Rimuovi da questo browser",
+  "Show fewer": "Mostra meno",
+  "Show all {count} devices": "Mostra tutti i {count} dispositivi",
+  "How saved devices work": "Come funzionano i dispositivi salvati"
 }
