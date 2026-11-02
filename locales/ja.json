@@ -624,8 +624,6 @@
   "A page photographed on the phone with its corners found, and the PDF received on the computer": "スマホで撮ったページの四隅が検出され、パソコンに PDF が届いている",
   "Text copied on the computer, ready to paste on the phone": "パソコンでコピーしたテキストを、スマホでワンタップで貼り付けられる",
   "A distribution room on the computer and two phones that received the same file": "パソコンの配布ルームと、同じファイルを受け取った 2 台のスマホ",
-  "See it in action": "実際の動きを見る",
   "PairOnce demo video": "PairOnce デモ動画",
-  "Play the PairOnce demo video": "PairOnce のデモ動画を再生",
-  "In English with subtitles. The video loads from YouTube (youtube-nocookie.com) only after you press play.": "英語（字幕付き）。再生ボタンを押すまで、YouTube（youtube-nocookie.com）からは何も読み込みません。"
+  "Watch the demo": "デモを見る"
 }
