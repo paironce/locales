@@ -627,5 +627,12 @@
   "PairOnce demo video": "Video dimostrativo di PairOnce",
   "Watch the demo": "Guarda la demo",
   "What if the connection drops during a big file?": "Cosa succede se la connessione cade durante un file grande?",
-  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "Un file di oltre 16 MB diretto a Chrome o Edge su computer o Android riprende da dove si era fermato quando gli stessi due dispositivi si ricollegano, purché entrambe le pagine restino aperte ed entro 30 minuti. Gli altri file ricominciano da capo."
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "Un file di oltre 16 MB diretto a Chrome o Edge su computer o Android riprende da dove si era fermato quando gli stessi due dispositivi si ricollegano, purché entrambe le pagine restino aperte ed entro 30 minuti. Gli altri file ricominciano da capo.",
+  "Looking for devices on this Wi-Fi…": "Ricerca di dispositivi su questo Wi-Fi…",
+  "On this Wi-Fi": "Su questo Wi-Fi",
+  "A device with PairOnce open · tap to connect": "Un dispositivo con PairOnce aperto · tocca per collegarti",
+  "{count} devices with PairOnce open · tap one to connect": "{count} dispositivi con PairOnce aperto · toccane uno per collegarti",
+  "Others on this Wi-Fi see this device as {name}. Every connection still needs your approval.": "Gli altri su questo Wi-Fi vedono questo dispositivo come {name}. Ogni connessione richiede comunque la tua approvazione.",
+  "Hidden from devices on this Wi-Fi. Scanning and codes still work.": "Nascosto ai dispositivi di questo Wi-Fi. Scansione e codici funzionano comunque.",
+  "Visible": "Visibile"
 }

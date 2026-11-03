@@ -627,5 +627,12 @@
   "PairOnce demo video": "PairOnce डेमो वीडियो",
   "Watch the demo": "डेमो देखें",
   "What if the connection drops during a big file?": "बड़ी फ़ाइल भेजते समय कनेक्शन टूट जाए तो?",
-  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "कंप्यूटर या Android पर Chrome या Edge में जा रही 16 MB से बड़ी फ़ाइल, वही दोनों डिवाइस दोबारा जुड़ते ही वहीं से आगे चलती है जहाँ रुकी थी, बशर्ते दोनों पेज खुले रहें और 30 मिनट के अंदर हो। बाकी फ़ाइलें शुरू से भेजी जाती हैं।"
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "कंप्यूटर या Android पर Chrome या Edge में जा रही 16 MB से बड़ी फ़ाइल, वही दोनों डिवाइस दोबारा जुड़ते ही वहीं से आगे चलती है जहाँ रुकी थी, बशर्ते दोनों पेज खुले रहें और 30 मिनट के अंदर हो। बाकी फ़ाइलें शुरू से भेजी जाती हैं।",
+  "Looking for devices on this Wi-Fi…": "इस Wi-Fi पर डिवाइस खोजे जा रहे हैं…",
+  "On this Wi-Fi": "इस Wi-Fi पर",
+  "A device with PairOnce open · tap to connect": "PairOnce खुला हुआ एक डिवाइस · जोड़ने के लिए टैप करें",
+  "{count} devices with PairOnce open · tap one to connect": "PairOnce खुले हुए {count} डिवाइस · जोड़ने के लिए किसी एक पर टैप करें",
+  "Others on this Wi-Fi see this device as {name}. Every connection still needs your approval.": "इस Wi-Fi पर दूसरे लोग इस डिवाइस को {name} के रूप में देखते हैं। हर कनेक्शन के लिए अब भी आपकी मंज़ूरी चाहिए।",
+  "Hidden from devices on this Wi-Fi. Scanning and codes still work.": "इस Wi-Fi के डिवाइसों से छिपा है। स्कैन और कोड पहले की तरह काम करते हैं।",
+  "Visible": "दिखाई दे"
 }

@@ -627,5 +627,12 @@
   "PairOnce demo video": "PairOnce 示範影片",
   "Watch the demo": "觀看示範",
   "What if the connection drops during a big file?": "傳大檔案時連線斷了怎麼辦？",
-  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "接收端是電腦或 Android 上的 Chrome、Edge 時，超過 16 MB 的檔案會在同樣兩台裝置重新連上後，從中斷的地方接著傳，前提是兩邊頁面都沒關閉，且在 30 分鐘內。其他檔案會從頭重傳。"
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "接收端是電腦或 Android 上的 Chrome、Edge 時，超過 16 MB 的檔案會在同樣兩台裝置重新連上後，從中斷的地方接著傳，前提是兩邊頁面都沒關閉，且在 30 分鐘內。其他檔案會從頭重傳。",
+  "Looking for devices on this Wi-Fi…": "正在尋找同一 Wi-Fi 上的裝置…",
+  "On this Wi-Fi": "同一 Wi-Fi 上的裝置",
+  "A device with PairOnce open · tap to connect": "有 1 台裝置開著 PairOnce · 點一下就能連線",
+  "{count} devices with PairOnce open · tap one to connect": "有 {count} 台裝置開著 PairOnce · 點一台就能連線",
+  "Others on this Wi-Fi see this device as {name}. Every connection still needs your approval.": "同一 Wi-Fi 上的其他人會看到本機顯示為 {name}。每次連線仍需你同意。",
+  "Hidden from devices on this Wi-Fi. Scanning and codes still work.": "同一 Wi-Fi 上的裝置看不到本機。掃描和輸入代碼照常可用。",
+  "Visible": "可見"
 }

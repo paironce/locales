@@ -627,5 +627,12 @@
   "PairOnce demo video": "Vidéo de démonstration de PairOnce",
   "Watch the demo": "Voir la démo",
   "What if the connection drops during a big file?": "Que se passe-t-il si la connexion coupe pendant un gros fichier ?",
-  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "Un fichier de plus de 16 Mo envoyé vers Chrome ou Edge sur ordinateur ou Android reprend là où il s’était arrêté dès que les deux mêmes appareils se reconnectent, à condition que les deux pages restent ouvertes et que ce soit dans les 30 minutes. Les autres fichiers repartent du début."
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "Un fichier de plus de 16 Mo envoyé vers Chrome ou Edge sur ordinateur ou Android reprend là où il s’était arrêté dès que les deux mêmes appareils se reconnectent, à condition que les deux pages restent ouvertes et que ce soit dans les 30 minutes. Les autres fichiers repartent du début.",
+  "Looking for devices on this Wi-Fi…": "Recherche d’appareils sur ce Wi-Fi…",
+  "On this Wi-Fi": "Sur ce Wi-Fi",
+  "A device with PairOnce open · tap to connect": "Un appareil avec PairOnce ouvert · touchez pour vous connecter",
+  "{count} devices with PairOnce open · tap one to connect": "{count} appareils avec PairOnce ouvert · touchez-en un pour vous connecter",
+  "Others on this Wi-Fi see this device as {name}. Every connection still needs your approval.": "Les autres sur ce Wi-Fi voient cet appareil comme {name}. Chaque connexion demande toujours votre accord.",
+  "Hidden from devices on this Wi-Fi. Scanning and codes still work.": "Masqué pour les appareils de ce Wi-Fi. Le scan et les codes fonctionnent toujours.",
+  "Visible": "Visible"
 }

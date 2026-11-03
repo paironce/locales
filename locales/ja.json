@@ -627,5 +627,12 @@
   "PairOnce demo video": "PairOnce デモ動画",
   "Watch the demo": "デモを見る",
   "What if the connection drops during a big file?": "大きなファイルの途中で接続が切れたら？",
-  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "受信側がパソコンまたは Android の Chrome・Edge なら、16 MB を超えるファイルは、同じ 2 台が再びつながったときに途切れたところから続きを送ります。両方のページを開いたままで、30 分以内であることが条件です。それ以外のファイルは最初からやり直しになります。"
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "受信側がパソコンまたは Android の Chrome・Edge なら、16 MB を超えるファイルは、同じ 2 台が再びつながったときに途切れたところから続きを送ります。両方のページを開いたままで、30 分以内であることが条件です。それ以外のファイルは最初からやり直しになります。",
+  "Looking for devices on this Wi-Fi…": "この Wi-Fi のデバイスを探しています…",
+  "On this Wi-Fi": "この Wi-Fi 上のデバイス",
+  "A device with PairOnce open · tap to connect": "PairOnce を開いているデバイスが 1 台 · タップして接続",
+  "{count} devices with PairOnce open · tap one to connect": "PairOnce を開いているデバイスが {count} 台 · タップして接続",
+  "Others on this Wi-Fi see this device as {name}. Every connection still needs your approval.": "この Wi-Fi の他の人には、このデバイスが {name} と表示されます。接続にはこれまでどおりあなたの承認が必要です。",
+  "Hidden from devices on this Wi-Fi. Scanning and codes still work.": "この Wi-Fi のデバイスには表示されません。スキャンとコードはこれまでどおり使えます。",
+  "Visible": "表示"
 }
