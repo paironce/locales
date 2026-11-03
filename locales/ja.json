@@ -625,5 +625,7 @@
   "Text copied on the computer, ready to paste on the phone": "パソコンでコピーしたテキストを、スマホでワンタップで貼り付けられる",
   "A distribution room on the computer and two phones that received the same file": "パソコンの配布ルームと、同じファイルを受け取った 2 台のスマホ",
   "PairOnce demo video": "PairOnce デモ動画",
-  "Watch the demo": "デモを見る"
+  "Watch the demo": "デモを見る",
+  "What if the connection drops during a big file?": "大きなファイルの途中で接続が切れたら？",
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "受信側がパソコンまたは Android の Chrome・Edge なら、16 MB を超えるファイルは、同じ 2 台が再びつながったときに途切れたところから続きを送ります。両方のページを開いたままで、30 分以内であることが条件です。それ以外のファイルは最初からやり直しになります。"
 }

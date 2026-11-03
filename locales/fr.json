@@ -625,5 +625,7 @@
   "Text copied on the computer, ready to paste on the phone": "Un texte copié sur l’ordinateur, prêt à être collé sur le téléphone",
   "A distribution room on the computer and two phones that received the same file": "Une salle de diffusion sur l’ordinateur et deux téléphones qui ont reçu le même fichier",
   "PairOnce demo video": "Vidéo de démonstration de PairOnce",
-  "Watch the demo": "Voir la démo"
+  "Watch the demo": "Voir la démo",
+  "What if the connection drops during a big file?": "Que se passe-t-il si la connexion coupe pendant un gros fichier ?",
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "Un fichier de plus de 16 Mo envoyé vers Chrome ou Edge sur ordinateur ou Android reprend là où il s’était arrêté dès que les deux mêmes appareils se reconnectent, à condition que les deux pages restent ouvertes et que ce soit dans les 30 minutes. Les autres fichiers repartent du début."
 }

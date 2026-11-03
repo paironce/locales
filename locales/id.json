@@ -625,5 +625,7 @@
   "Text copied on the computer, ready to paste on the phone": "Teks yang disalin di komputer, siap ditempel di ponsel",
   "A distribution room on the computer and two phones that received the same file": "Ruang distribusi di komputer dan dua ponsel yang menerima file yang sama",
   "PairOnce demo video": "Video demo PairOnce",
-  "Watch the demo": "Tonton demo"
+  "Watch the demo": "Tonton demo",
+  "What if the connection drops during a big file?": "Bagaimana jika koneksi terputus saat mengirim file besar?",
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "File di atas 16 MB yang dikirim ke Chrome atau Edge di komputer atau Android dilanjutkan dari titik terputus setelah dua perangkat yang sama terhubung lagi, selama kedua halaman tetap terbuka dan masih dalam 30 menit. File lain dikirim ulang dari awal."
 }

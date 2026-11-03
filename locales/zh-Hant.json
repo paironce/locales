@@ -625,5 +625,7 @@
   "Text copied on the computer, ready to paste on the phone": "電腦上複製的文字，在手機上一點就能貼上",
   "A distribution room on the computer and two phones that received the same file": "電腦上的分發房間，兩台手機收到了同一個檔案",
   "PairOnce demo video": "PairOnce 示範影片",
-  "Watch the demo": "觀看示範"
+  "Watch the demo": "觀看示範",
+  "What if the connection drops during a big file?": "傳大檔案時連線斷了怎麼辦？",
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "接收端是電腦或 Android 上的 Chrome、Edge 時，超過 16 MB 的檔案會在同樣兩台裝置重新連上後，從中斷的地方接著傳，前提是兩邊頁面都沒關閉，且在 30 分鐘內。其他檔案會從頭重傳。"
 }

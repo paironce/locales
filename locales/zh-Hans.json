@@ -853,5 +853,7 @@
   "Text copied on the computer, ready to paste on the phone": "电脑上复制的文字，在手机上一点就能粘贴",
   "A distribution room on the computer and two phones that received the same file": "电脑上的分发房间，两台手机收到了同一个文件",
   "PairOnce demo video": "PairOnce 演示视频",
-  "Watch the demo": "观看演示"
+  "Watch the demo": "观看演示",
+  "What if the connection drops during a big file?": "传大文件时连接断了怎么办？",
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "接收端是电脑或安卓上的 Chrome、Edge 时，超过 16 MB 的文件会在同样两台设备重新连上后，从断开的地方接着传，前提是两边页面都没关，并且在 30 分钟内。其他文件会从头重传。"
 }

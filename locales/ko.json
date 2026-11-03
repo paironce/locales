@@ -625,5 +625,7 @@
   "Text copied on the computer, ready to paste on the phone": "컴퓨터에서 복사한 텍스트를 휴대폰에서 한 번에 붙여 넣을 수 있는 모습",
   "A distribution room on the computer and two phones that received the same file": "컴퓨터의 배포 룸과 같은 파일을 받은 휴대폰 두 대",
   "PairOnce demo video": "PairOnce 데모 영상",
-  "Watch the demo": "데모 보기"
+  "Watch the demo": "데모 보기",
+  "What if the connection drops during a big file?": "큰 파일을 보내는 중에 연결이 끊기면 어떻게 되나요?",
+  "A file over 16 MB going to Chrome or Edge on a computer or Android continues from where it stopped once the same two devices connect again, as long as both pages stay open and it is within 30 minutes. Other files start over.": "받는 쪽이 컴퓨터나 Android의 Chrome·Edge라면 16MB가 넘는 파일은 같은 두 기기가 다시 연결될 때 끊긴 지점부터 이어서 전송됩니다. 두 페이지를 모두 열어 두고 30분 안에 다시 연결해야 합니다. 그 밖의 파일은 처음부터 다시 보냅니다."
 }
