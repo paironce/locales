@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "Die andere Seite nimmt an und speichert.",
   "More than files.": "Mehr als Dateien.",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "Zeig deine Kamera oder deinen Bildschirm auf dem anderen Gerät und nimm von dort ein Foto in voller Auflösung auf.",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "Fotografiere Seiten: Die Ränder werden begradigt, und das PDF entsteht auf deinem Handy.",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "Fotografiere Seiten; die Kanten werden begradigt und das PDF entsteht auf deinem Handy. Am Computer macht ein Tippen den Text durchsuchbar.",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "Sende dieselben Dateien an alle im selben WLAN. Jedes Gerät tritt mit einem Scan bei.",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "Direkt und Ende-zu-Ende-verschlüsselt, mit einem neuen Schlüssel für jede Verbindung.",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "Blockiert das Netzwerk das, reicht ein Relay die verschlüsselten Daten nur weiter und speichert nichts.",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "Bis 2 GB pro Datei in aktuellen Browsern, oder 10 GB mit PairOnce Pro auf einem der beiden Geräte. Ältere Browser, etwa Safari vor iOS 26, nehmen bis 50 MB pro Datei. Sind zwei Geräte verbunden, zeigt PairOnce das genaue Limit für dieses Paar.",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "Ja. Dateien senden und jedes hier beschriebene Werkzeug sind kostenlos, ohne Anmeldung. Ein optionaler PairOnce-Pro-Plan für $3.99 im Monat oder $29.99 im Jahr bringt mehr Relay-Daten, Dateien bis 10 GB und höhere Grenzen in den Werkzeugen.",
   "Built in and free. Once connected, tap + next to the message box.": "Eingebaut und kostenlos. Nach dem Verbinden auf + neben dem Nachrichtenfeld tippen.",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Kostenlos, ohne Konto. Bis 2 GB pro Datei in aktuellen Browsern, oder 10 GB mit PairOnce Pro; ältere Browser nehmen 50 MB pro Datei."
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Kostenlos, ohne Konto. Bis 2 GB pro Datei in aktuellen Browsern, oder 10 GB mit PairOnce Pro; ältere Browser nehmen 50 MB pro Datei.",
+  "Make searchable": "Durchsuchbar machen",
+  "Language of the text": "Sprache des Textes",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce liest den Text auf diesem Gerät und fügt ihn einer Kopie des PDFs hinzu, damit du darin suchen und daraus kopieren kannst. Beim ersten Mal werden etwa {size} MB von paironce.com geladen.",
+  "Read the text": "Text lesen",
+  "Reading page {index} of {count}…": "Seite {index} von {count} wird gelesen…",
+  "Getting text recognition ready…": "Texterkennung wird vorbereitet…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce macht PDFs aus seinem eigenen Scanner durchsuchbar. Dieses PDF wurde anderswo erstellt.",
+  "Reading the text did not finish. Check the connection and try again.": "Das Lesen des Textes wurde nicht abgeschlossen. Prüfe die Verbindung und versuche es erneut.",
+  "Searchable copy ready: {name}": "Durchsuchbare Kopie fertig: {name}",
+  "No text was found on these pages.": "Auf diesen Seiten wurde kein Text gefunden."
 }

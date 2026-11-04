@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "L’altro dispositivo accetta, poi salva.",
   "More than files.": "Non solo file.",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "Mostra la fotocamera o lo schermo sull’altro dispositivo e scatta da lì una foto a piena risoluzione.",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "Fotografa le pagine: i bordi vengono raddrizzati e il PDF viene creato sul telefono.",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "Fotografa le pagine: i bordi vengono raddrizzati e il PDF viene creato sul telefono. Sul computer, un tocco rende il testo ricercabile.",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "Invia gli stessi file a tutti sulla stessa Wi-Fi. Ogni dispositivo si unisce con una scansione.",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "Diretto e crittografato end-to-end, con una chiave nuova per ogni connessione.",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "Se la rete lo impedisce, un server di inoltro passa i dati crittografati e non conserva nulla.",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "Fino a 2 GB per file nei browser recenti, o 10 GB con PairOnce Pro su uno dei due dispositivi. I browser meno recenti, come Safari prima di iOS 26, ricevono fino a 50 MB per file. Una volta collegati due dispositivi, PairOnce mostra il limite esatto per quella coppia.",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "Sì. Inviare file e tutti gli strumenti descritti qui sono gratis, senza registrazione. Un piano opzionale PairOnce Pro, a $3.99 al mese o $29.99 all’anno, aggiunge più dati di relay, file fino a 10 GB e limiti più alti negli strumenti.",
   "Built in and free. Once connected, tap + next to the message box.": "Integrati e gratuiti. Una volta collegato, tocca + accanto alla casella del messaggio.",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Gratis, senza account. Fino a 2 GB per file nei browser recenti, o 10 GB con PairOnce Pro; i browser meno recenti ricevono 50 MB per file."
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Gratis, senza account. Fino a 2 GB per file nei browser recenti, o 10 GB con PairOnce Pro; i browser meno recenti ricevono 50 MB per file.",
+  "Make searchable": "Rendi ricercabile",
+  "Language of the text": "Lingua del testo",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce legge il testo su questo dispositivo e lo aggiunge a una copia del PDF, così puoi cercarvi dentro e copiarne il testo. La prima volta vengono scaricati circa {size} MB da paironce.com.",
+  "Read the text": "Leggi il testo",
+  "Reading page {index} of {count}…": "Lettura della pagina {index} di {count}…",
+  "Getting text recognition ready…": "Preparazione del riconoscimento del testo…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce rende ricercabili i PDF del suo scanner. Questo PDF è stato creato altrove.",
+  "Reading the text did not finish. Check the connection and try again.": "La lettura del testo non è terminata. Controlla la connessione e riprova.",
+  "Searchable copy ready: {name}": "Copia ricercabile pronta: {name}",
+  "No text was found on these pages.": "Nessun testo trovato in queste pagine."
 }

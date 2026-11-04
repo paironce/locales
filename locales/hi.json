@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "दूसरी तरफ़ स्वीकार करके सेव करते हैं।",
   "More than files.": "सिर्फ़ फ़ाइलें नहीं।",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "अपना कैमरा या स्क्रीन दूसरे डिवाइस पर दिखाएँ, और वहीं से पूरे रिज़ॉल्यूशन की फ़ोटो लें।",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "पन्नों की फ़ोटो लें: किनारे सीधे किए जाते हैं और PDF आपके फ़ोन पर ही बनती है।",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "पेजों की फ़ोटो लें; किनारे सीधे हो जाते हैं और PDF आपके फ़ोन पर बनती है। कंप्यूटर पर एक टैप से उसका टेक्स्ट खोजने योग्य बन जाता है।",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "एक ही Wi-Fi पर सबको वही फ़ाइलें भेजें। हर डिवाइस स्कैन करके जुड़ता है।",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "सीधा और एंड-टू-एंड एन्क्रिप्टेड, हर कनेक्शन के लिए नई कुंजी के साथ।",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "अगर नेटवर्क इसे रोकता है, तो रिले सिर्फ़ एन्क्रिप्टेड डेटा आगे भेजता है और कुछ नहीं रखता।",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "नए ब्राउज़र में हर फ़ाइल 2 GB तक, या दोनों में से एक डिवाइस पर PairOnce Pro हो तो 10 GB तक। पुराने ब्राउज़र, जैसे iOS 26 से पहले का Safari, हर फ़ाइल 50 MB तक लेते हैं। दो डिवाइस जुड़ते ही PairOnce उस जोड़ी की सटीक सीमा दिखा देता है।",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "हाँ। फ़ाइलें भेजना और यहाँ बताया हर टूल मुफ़्त है, बिना साइन-अप। वैकल्पिक PairOnce Pro प्लान, $3.99 महीना या $29.99 साल, ज़्यादा रिले डेटा, 10 GB तक की फ़ाइलें और टूल में ऊँची सीमाएँ देता है।",
   "Built in and free. Once connected, tap + next to the message box.": "पहले से मौजूद और मुफ़्त। जुड़ने के बाद मैसेज बॉक्स के पास + पर टैप करें।",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "मुफ़्त, बिना अकाउंट। नए ब्राउज़र में हर फ़ाइल 2 GB तक, या PairOnce Pro के साथ 10 GB; पुराने ब्राउज़र हर फ़ाइल 50 MB लेते हैं।"
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "मुफ़्त, बिना अकाउंट। नए ब्राउज़र में हर फ़ाइल 2 GB तक, या PairOnce Pro के साथ 10 GB; पुराने ब्राउज़र हर फ़ाइल 50 MB लेते हैं।",
+  "Make searchable": "खोजने योग्य बनाएँ",
+  "Language of the text": "टेक्स्ट की भाषा",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce इसी डिवाइस पर टेक्स्ट पढ़ता है और उसे PDF की एक कॉपी में जोड़ देता है, ताकि आप उसमें खोज सकें और टेक्स्ट कॉपी कर सकें। पहली बार paironce.com से लगभग {size} MB डाउनलोड होता है।",
+  "Read the text": "टेक्स्ट पढ़ें",
+  "Reading page {index} of {count}…": "पेज {index} / {count} पढ़ा जा रहा है…",
+  "Getting text recognition ready…": "टेक्स्ट पहचान तैयार हो रही है…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce अपने स्कैनर से बनी PDF को खोजने योग्य बनाता है। यह PDF कहीं और बनी है।",
+  "Reading the text did not finish. Check the connection and try again.": "टेक्स्ट पढ़ना पूरा नहीं हुआ। कनेक्शन देखें और फिर से कोशिश करें।",
+  "Searchable copy ready: {name}": "खोजने योग्य कॉपी तैयार: {name}",
+  "No text was found on these pages.": "इन पेजों पर कोई टेक्स्ट नहीं मिला।"
 }

@@ -833,6 +833,7 @@
   "The other side accepts, then saves.": "对方接受，然后保存。",
   "More than files.": "不只是文件。",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "把摄像头或屏幕实时给另一台设备看，还能从那边拍一张原图。",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "拍下纸页，自动拉直边缘，PDF 在手机上生成。到了电脑上，点一下就能搜索里面的文字。",
   "Photograph pages; the edges are straightened and the PDF is made on your phone.": "拍下纸页，自动拉正边缘，在手机上生成 PDF。",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "把同样的文件发给同一 Wi-Fi 里的所有人，每台设备扫码加入。",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "直连并端到端加密，每次连接都用新的密钥。",
@@ -863,5 +864,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "在较新的浏览器里，每个文件最多 2 GB；两台设备中有一台开通 PairOnce Pro 时最多 10 GB。较旧的浏览器（比如 iOS 26 以前的 Safari）每个文件最多 50 MB。两台设备连上后，PairOnce 会直接显示这一对设备能传多大。",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "是的。发文件和这里介绍的所有工具都免费，无需注册。可选的 PairOnce Pro 每月 $3.99 或每年 $29.99，提供更多中继流量、最大 10 GB 的文件，以及更高的工具上限。",
   "Built in and free. Once connected, tap + next to the message box.": "内置，免费。连上后，点消息框旁边的 + 就能用。",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "免费，无需账户。较新的浏览器每个文件最多 2 GB，开通 PairOnce Pro 最多 10 GB；较旧的浏览器每个文件 50 MB。"
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "免费，无需账户。较新的浏览器每个文件最多 2 GB，开通 PairOnce Pro 最多 10 GB；较旧的浏览器每个文件 50 MB。",
+  "Make searchable": "变成可搜索",
+  "Language of the text": "文字语言",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce 在这台设备上识别文字，并加到 PDF 的副本里，这样就能在里面搜索、复制文字。第一次使用会从 paironce.com 下载约 {size} MB。",
+  "Read the text": "识别文字",
+  "Reading page {index} of {count}…": "正在识别第 {index} 页，共 {count} 页…",
+  "Getting text recognition ready…": "正在准备文字识别…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce 能把自己扫描仪生成的 PDF 变成可搜索。这个 PDF 来自别处。",
+  "Reading the text did not finish. Check the connection and try again.": "文字识别没有完成。请检查网络连接后再试一次。",
+  "Searchable copy ready: {name}": "可搜索的副本已就绪：{name}",
+  "No text was found on these pages.": "这些页面上没有找到文字。"
 }

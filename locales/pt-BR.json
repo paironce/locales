@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "O outro lado aceita e salva.",
   "More than files.": "Mais que arquivos.",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "Mostre sua câmera ou sua tela no outro dispositivo e tire de lá uma foto em resolução total.",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "Fotografe páginas: as bordas são endireitadas e o PDF é feito no seu celular.",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "Fotografe páginas; as bordas são endireitadas e o PDF é criado no seu celular. No computador, um toque torna o texto pesquisável.",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "Envie os mesmos arquivos para todos na mesma Wi-Fi. Cada dispositivo entra escaneando.",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "Direto e com criptografia de ponta a ponta, com uma chave nova a cada conexão.",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "Se a rede bloquear isso, um servidor de retransmissão repassa os dados criptografados e não guarda nada.",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "Até 2 GB por arquivo nos navegadores atuais, ou 10 GB com o PairOnce Pro em um dos dois dispositivos. Navegadores mais antigos, como o Safari antes do iOS 26, recebem até 50 MB por arquivo. Quando dois dispositivos estão conectados, o PairOnce mostra o limite exato para essa dupla.",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "Sim. Enviar arquivos e todas as ferramentas descritas aqui são grátis, sem cadastro. Um plano opcional PairOnce Pro, de $3.99 por mês ou $29.99 por ano, traz mais dados de relay, arquivos de até 10 GB e limites maiores nas ferramentas.",
   "Built in and free. Once connected, tap + next to the message box.": "Já vêm incluídas e grátis. Depois de conectar, toque em + ao lado da caixa de mensagem.",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Grátis, sem conta. Até 2 GB por arquivo nos navegadores atuais, ou 10 GB com o PairOnce Pro; navegadores mais antigos recebem 50 MB por arquivo."
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Grátis, sem conta. Até 2 GB por arquivo nos navegadores atuais, ou 10 GB com o PairOnce Pro; navegadores mais antigos recebem 50 MB por arquivo.",
+  "Make searchable": "Tornar pesquisável",
+  "Language of the text": "Idioma do texto",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "O PairOnce lê o texto neste dispositivo e o adiciona a uma cópia do PDF, para você pesquisar nele e copiar o texto. Na primeira vez, cerca de {size} MB são baixados de paironce.com.",
+  "Read the text": "Ler o texto",
+  "Reading page {index} of {count}…": "Lendo a página {index} de {count}…",
+  "Getting text recognition ready…": "Preparando o reconhecimento de texto…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "O PairOnce torna pesquisáveis os PDFs do próprio scanner. Este PDF foi criado em outro lugar.",
+  "Reading the text did not finish. Check the connection and try again.": "A leitura do texto não terminou. Verifique a conexão e tente de novo.",
+  "Searchable copy ready: {name}": "Cópia pesquisável pronta: {name}",
+  "No text was found on these pages.": "Nenhum texto foi encontrado nestas páginas."
 }

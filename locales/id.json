@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "Pihak lain menerima, lalu menyimpan.",
   "More than files.": "Lebih dari sekadar file.",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "Tampilkan kamera atau layar Anda di perangkat lain, lalu ambil foto resolusi penuh dari sana.",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "Foto halaman: tepinya diluruskan dan PDF dibuat di ponsel Anda.",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "Foto halaman; tepinya diluruskan dan PDF dibuat di ponsel Anda. Di komputer, satu ketukan membuat teksnya bisa dicari.",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "Kirim file yang sama ke semua orang di satu Wi-Fi. Tiap perangkat bergabung dengan memindai.",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "Langsung dan terenkripsi end-to-end, dengan kunci baru untuk setiap koneksi.",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "Jika jaringan memblokirnya, server perantara meneruskan data terenkripsi tanpa menyimpan apa pun.",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "Hingga 2 GB per file di browser terbaru, atau 10 GB dengan PairOnce Pro di salah satu dari dua perangkat. Browser lama, seperti Safari sebelum iOS 26, menerima hingga 50 MB per file. Setelah dua perangkat tersambung, PairOnce menampilkan batas persis untuk pasangan itu.",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "Ya. Mengirim file dan semua alat yang dijelaskan di sini gratis, tanpa daftar. Paket opsional PairOnce Pro, $3.99 per bulan atau $29.99 per tahun, menambah data relay, file hingga 10 GB, dan batas lebih tinggi di alat-alatnya.",
   "Built in and free. Once connected, tap + next to the message box.": "Sudah ada dan gratis. Setelah tersambung, ketuk + di samping kotak pesan.",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Gratis, tanpa akun. Hingga 2 GB per file di browser terbaru, atau 10 GB dengan PairOnce Pro; browser lama menerima 50 MB per file."
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "Gratis, tanpa akun. Hingga 2 GB per file di browser terbaru, atau 10 GB dengan PairOnce Pro; browser lama menerima 50 MB per file.",
+  "Make searchable": "Jadikan bisa dicari",
+  "Language of the text": "Bahasa teks",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce membaca teks di perangkat ini dan menambahkannya ke salinan PDF, sehingga Anda bisa mencari dan menyalin teksnya. Pertama kali, sekitar {size} MB diunduh dari paironce.com.",
+  "Read the text": "Baca teks",
+  "Reading page {index} of {count}…": "Membaca halaman {index} dari {count}…",
+  "Getting text recognition ready…": "Menyiapkan pengenalan teks…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce membuat PDF dari pemindainya sendiri bisa dicari. PDF ini dibuat di tempat lain.",
+  "Reading the text did not finish. Check the connection and try again.": "Pembacaan teks belum selesai. Periksa koneksi dan coba lagi.",
+  "Searchable copy ready: {name}": "Salinan yang bisa dicari siap: {name}",
+  "No text was found on these pages.": "Tidak ada teks yang ditemukan di halaman ini."
 }

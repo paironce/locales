@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "상대가 수락하고 저장해요.",
   "More than files.": "파일만이 아니에요.",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "카메라나 화면을 다른 기기에 실시간으로 보여 주고, 그쪽에서 원본 해상도 사진을 찍을 수 있어요.",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "페이지를 찍으면 가장자리를 반듯하게 펴고 휴대폰에서 PDF로 만들어요.",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "페이지를 찍으면 가장자리가 반듯하게 펴지고 휴대폰에서 PDF가 만들어집니다. 컴퓨터에서는 한 번 탭하면 텍스트를 검색할 수 있습니다.",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "같은 Wi-Fi에 있는 모두에게 같은 파일을 보내요. 각 기기는 스캔으로 참여해요.",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "직접 연결, 종단 간 암호화. 연결할 때마다 새 키를 써요.",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "네트워크가 막으면 중계가 암호화된 데이터를 전달만 하고 아무것도 보관하지 않아요.",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "최신 브라우저에서는 파일당 2GB까지, 두 기기 중 한 대에 PairOnce Pro가 있으면 10GB까지입니다. iOS 26 이전의 Safari 같은 이전 브라우저는 파일당 50MB까지 받습니다. 두 기기가 연결되면 PairOnce가 그 조합의 정확한 한도를 보여 줍니다.",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "네. 파일 보내기와 여기 소개한 모든 도구는 가입 없이 무료입니다. 선택 사항인 PairOnce Pro(월 $3.99 또는 연 $29.99)는 릴레이 데이터를 늘리고, 10GB까지의 파일과 도구의 더 높은 한도를 더해 줍니다.",
   "Built in and free. Once connected, tap + next to the message box.": "기본으로 들어 있고 무료입니다. 연결되면 메시지 입력창 옆의 +를 탭하세요.",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "무료, 계정 없음. 최신 브라우저에서는 파일당 2GB까지, PairOnce Pro는 10GB까지이며, 이전 브라우저는 파일당 50MB까지입니다."
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "무료, 계정 없음. 최신 브라우저에서는 파일당 2GB까지, PairOnce Pro는 10GB까지이며, 이전 브라우저는 파일당 50MB까지입니다.",
+  "Make searchable": "검색 가능하게 만들기",
+  "Language of the text": "텍스트 언어",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce가 이 기기에서 텍스트를 읽어 PDF 사본에 추가합니다. 사본에서 검색하고 텍스트를 복사할 수 있습니다. 처음에는 paironce.com에서 약 {size}MB를 내려받습니다.",
+  "Read the text": "텍스트 읽기",
+  "Reading page {index} of {count}…": "{count}페이지 중 {index}페이지 읽는 중…",
+  "Getting text recognition ready…": "텍스트 인식을 준비하는 중…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce는 자체 스캐너로 만든 PDF를 검색 가능하게 만듭니다. 이 PDF는 다른 곳에서 만들어졌습니다.",
+  "Reading the text did not finish. Check the connection and try again.": "텍스트 읽기가 끝나지 않았습니다. 연결을 확인하고 다시 시도하세요.",
+  "Searchable copy ready: {name}": "검색 가능한 사본 준비 완료: {name}",
+  "No text was found on these pages.": "이 페이지들에서 텍스트를 찾지 못했습니다."
 }

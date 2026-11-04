@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "對方接受，然後儲存。",
   "More than files.": "不只是檔案。",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "把相機或螢幕即時給另一台裝置看，還能從那邊拍一張原圖。",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "拍下紙頁，自動拉正邊緣，在手機上產生 PDF。",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "拍下紙頁，自動拉直邊緣，PDF 在手機上產生。到了電腦上，點一下就能搜尋裡面的文字。",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "把同樣的檔案傳給同一個 Wi-Fi 裡的所有人，每台裝置掃碼加入。",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "直連並端對端加密，每次連線都用新的金鑰。",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "網路擋住直連時，由中繼轉發加密資料，不保存任何內容。",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "在較新的瀏覽器裡，每個檔案最多 2 GB；兩台裝置中有一台開通 PairOnce Pro 時最多 10 GB。較舊的瀏覽器（例如 iOS 26 以前的 Safari）每個檔案最多 50 MB。兩台裝置連上後，PairOnce 會直接顯示這一對裝置能傳多大。",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "是的。傳檔案和這裡介紹的所有工具都免費，不需註冊。可選的 PairOnce Pro 每月 $3.99 或每年 $29.99，提供更多中繼流量、最大 10 GB 的檔案，以及更高的工具上限。",
   "Built in and free. Once connected, tap + next to the message box.": "內建，免費。連上後，點訊息框旁邊的 + 就能用。",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "免費，不需帳號。較新的瀏覽器每個檔案最多 2 GB，開通 PairOnce Pro 最多 10 GB；較舊的瀏覽器每個檔案 50 MB。"
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "免費，不需帳號。較新的瀏覽器每個檔案最多 2 GB，開通 PairOnce Pro 最多 10 GB；較舊的瀏覽器每個檔案 50 MB。",
+  "Make searchable": "變成可搜尋",
+  "Language of the text": "文字語言",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce 在這台裝置上辨識文字，並加到 PDF 的副本裡，這樣就能在裡面搜尋、複製文字。第一次使用會從 paironce.com 下載約 {size} MB。",
+  "Read the text": "辨識文字",
+  "Reading page {index} of {count}…": "正在辨識第 {index} 頁，共 {count} 頁…",
+  "Getting text recognition ready…": "正在準備文字辨識…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce 能把自家掃描器產生的 PDF 變成可搜尋。這個 PDF 來自別處。",
+  "Reading the text did not finish. Check the connection and try again.": "文字辨識沒有完成。請檢查網路連線後再試一次。",
+  "Searchable copy ready: {name}": "可搜尋的副本已就緒：{name}",
+  "No text was found on these pages.": "這些頁面上沒有找到文字。"
 }

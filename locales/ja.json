@@ -605,7 +605,7 @@
   "The other side accepts, then saves.": "相手が受け取りを許可して、保存します。",
   "More than files.": "ファイルだけじゃない。",
   "Show your camera or screen on the other device, and take a full-resolution photo from there.": "カメラや画面をもう一方のデバイスにライブで見せ、そちらからフル解像度の写真を撮れます。",
-  "Photograph pages; the edges are straightened and the PDF is made on your phone.": "ページを撮影すると、端をまっすぐに補正し、スマホ上で PDF にします。",
+  "Photograph pages; the edges are straightened and the PDF is made on your phone. On the computer, one tap makes its text searchable.": "ページを撮影すると、端がまっすぐに補正され、スマートフォン上で PDF が作られます。パソコンではワンタップで文字を検索できるようになります。",
   "Send the same files to everyone on one Wi-Fi. Each device joins with a scan.": "同じ Wi-Fi にいる全員に同じファイルを送れます。各デバイスはスキャンで参加します。",
   "Direct and end-to-end encrypted, with a fresh key for every connection.": "直接接続でエンドツーエンド暗号化。接続ごとに新しい鍵を使います。",
   "If the network blocks that, a relay passes on the encrypted data and keeps nothing.": "ネットワークに阻まれた場合は、中継が暗号化されたデータを受け渡すだけで、何も保持しません。",
@@ -635,5 +635,15 @@
   "Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro on one of the two devices. Older browsers, such as Safari before iOS 26, take up to 50 MB per file. Once two devices are connected, PairOnce shows the exact limit for that pair.": "最新のブラウザーなら 1 ファイル 2 GB まで、2 台のどちらかに PairOnce Pro があれば 10 GB まで送れます。iOS 26 より前の Safari など古いブラウザーは 1 ファイル 50 MB までです。2 台がつながると、その組み合わせでの正確な上限が表示されます。",
   "Yes. Sending files and every tool described here is free, with no sign-up. An optional PairOnce Pro plan, $3.99 a month or $29.99 a year, adds more relay data, files up to 10 GB and higher limits in the tools.": "はい。ファイルの送信とここで紹介しているツールはすべて無料で、登録も不要です。オプションの PairOnce Pro（月 $3.99 または年 $29.99）では、リレーの容量が増え、10 GB までのファイルを送れ、各ツールの上限も上がります。",
   "Built in and free. Once connected, tap + next to the message box.": "最初から入っていて無料。つながったら、メッセージ欄の横の + をタップ。",
-  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "無料、アカウント不要。最新のブラウザーなら 1 ファイル 2 GB まで、PairOnce Pro なら 10 GB まで。古いブラウザーは 1 ファイル 50 MB までです。"
+  "Free, no account. Up to 2 GB per file in current browsers, or 10 GB with PairOnce Pro; older browsers take 50 MB per file.": "無料、アカウント不要。最新のブラウザーなら 1 ファイル 2 GB まで、PairOnce Pro なら 10 GB まで。古いブラウザーは 1 ファイル 50 MB までです。",
+  "Make searchable": "検索できるようにする",
+  "Language of the text": "テキストの言語",
+  "PairOnce reads the text on this device and adds it to a copy of the PDF, so you can search it and copy from it. The first time, about {size} MB is downloaded from paironce.com.": "PairOnce はこのデバイス上で文字を読み取り、PDF のコピーに追加します。検索やテキストのコピーができるようになります。初回は paironce.com から約 {size} MB をダウンロードします。",
+  "Read the text": "文字を読み取る",
+  "Reading page {index} of {count}…": "{count} ページ中 {index} ページ目を読み取り中…",
+  "Getting text recognition ready…": "文字認識を準備しています…",
+  "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce は自身のスキャナーで作った PDF を検索できるようにします。この PDF は別の場所で作られています。",
+  "Reading the text did not finish. Check the connection and try again.": "文字の読み取りが完了しませんでした。接続を確認して、もう一度お試しください。",
+  "Searchable copy ready: {name}": "検索できるコピーの準備ができました：{name}",
+  "No text was found on these pages.": "これらのページに文字は見つかりませんでした。"
 }
