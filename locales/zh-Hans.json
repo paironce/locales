@@ -876,5 +876,12 @@
   "Searchable copy ready: {name}": "可搜索的副本已就绪：{name}",
   "No text was found on these pages.": "这些页面上没有找到文字。",
   "Agent": "Agent",
-  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "这是运行在电脑或云端的 AI 智能体。只有你自己启动的才批准。"
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "这是运行在电脑或云端的 AI 智能体。只有你自己启动的才批准。",
+  "{peer} asks for a photo": "{peer} 请求一张照片",
+  "{peer} asks for a scan": "{peer} 请求一份扫描件",
+  "{peer} asks for a file": "{peer} 请求一个文件",
+  "Only what you take or choose here is sent, and only to this device.": "只发送你在这里拍摄或选择的内容，而且只发给这台设备。",
+  "Take photo": "拍照",
+  "Scan": "扫描",
+  "Choose file": "选择文件"
 }

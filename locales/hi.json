@@ -647,5 +647,12 @@
   "Searchable copy ready: {name}": "खोजने योग्य कॉपी तैयार: {name}",
   "No text was found on these pages.": "इन पेजों पर कोई टेक्स्ट नहीं मिला।",
   "Agent": "एजेंट",
-  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "यह किसी कंप्यूटर या क्लाउड पर चल रहा AI एजेंट है। इसे तभी मंज़ूरी दें जब इसे आपने ख़ुद शुरू किया हो।"
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "यह किसी कंप्यूटर या क्लाउड पर चल रहा AI एजेंट है। इसे तभी मंज़ूरी दें जब इसे आपने ख़ुद शुरू किया हो।",
+  "{peer} asks for a photo": "{peer} एक फ़ोटो माँग रहा है",
+  "{peer} asks for a scan": "{peer} एक स्कैन माँग रहा है",
+  "{peer} asks for a file": "{peer} एक फ़ाइल माँग रहा है",
+  "Only what you take or choose here is sent, and only to this device.": "सिर्फ़ वही भेजा जाता है जो आप यहाँ लेते या चुनते हैं, और सिर्फ़ इसी डिवाइस को।",
+  "Take photo": "फ़ोटो लें",
+  "Scan": "स्कैन करें",
+  "Choose file": "फ़ाइल चुनें"
 }

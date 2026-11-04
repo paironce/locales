@@ -647,5 +647,12 @@
   "Searchable copy ready: {name}": "Copie consultable prête : {name}",
   "No text was found on these pages.": "Aucun texte n’a été trouvé sur ces pages.",
   "Agent": "Agent",
-  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "Il s’agit d’un agent d’IA sur un ordinateur ou dans le cloud. Ne l’approuvez que si vous l’avez lancé vous-même."
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "Il s’agit d’un agent d’IA sur un ordinateur ou dans le cloud. Ne l’approuvez que si vous l’avez lancé vous-même.",
+  "{peer} asks for a photo": "{peer} demande une photo",
+  "{peer} asks for a scan": "{peer} demande un scan",
+  "{peer} asks for a file": "{peer} demande un fichier",
+  "Only what you take or choose here is sent, and only to this device.": "Seul ce que vous prenez ou choisissez ici est envoyé, et uniquement à cet appareil.",
+  "Take photo": "Prendre une photo",
+  "Scan": "Scanner",
+  "Choose file": "Choisir un fichier"
 }

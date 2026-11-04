@@ -647,5 +647,12 @@
   "Searchable copy ready: {name}": "Salinan yang bisa dicari siap: {name}",
   "No text was found on these pages.": "Tidak ada teks yang ditemukan di halaman ini.",
   "Agent": "Agen",
-  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "Ini agen AI di komputer atau di cloud. Setujui hanya jika Anda sendiri yang menjalankannya."
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "Ini agen AI di komputer atau di cloud. Setujui hanya jika Anda sendiri yang menjalankannya.",
+  "{peer} asks for a photo": "{peer} meminta foto",
+  "{peer} asks for a scan": "{peer} meminta pindaian",
+  "{peer} asks for a file": "{peer} meminta file",
+  "Only what you take or choose here is sent, and only to this device.": "Hanya yang Anda ambil atau pilih di sini yang dikirim, dan hanya ke perangkat ini.",
+  "Take photo": "Ambil foto",
+  "Scan": "Pindai",
+  "Choose file": "Pilih file"
 }

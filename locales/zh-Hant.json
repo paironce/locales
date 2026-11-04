@@ -647,5 +647,12 @@
   "Searchable copy ready: {name}": "可搜尋的副本已就緒：{name}",
   "No text was found on these pages.": "這些頁面上沒有找到文字。",
   "Agent": "Agent",
-  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "這是執行在電腦或雲端的 AI 智慧代理。只有你自己啟動的才核准。"
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "這是執行在電腦或雲端的 AI 智慧代理。只有你自己啟動的才核准。",
+  "{peer} asks for a photo": "{peer} 請求一張照片",
+  "{peer} asks for a scan": "{peer} 請求一份掃描件",
+  "{peer} asks for a file": "{peer} 請求一個檔案",
+  "Only what you take or choose here is sent, and only to this device.": "只傳送你在這裡拍攝或選擇的內容，而且只傳給這台裝置。",
+  "Take photo": "拍照",
+  "Scan": "掃描",
+  "Choose file": "選擇檔案"
 }

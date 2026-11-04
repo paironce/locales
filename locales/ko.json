@@ -647,5 +647,12 @@
   "Searchable copy ready: {name}": "검색 가능한 사본 준비 완료: {name}",
   "No text was found on these pages.": "이 페이지들에서 텍스트를 찾지 못했습니다.",
   "Agent": "에이전트",
-  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "컴퓨터나 클라우드에서 실행되는 AI 에이전트입니다. 직접 실행한 경우에만 승인하세요."
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "컴퓨터나 클라우드에서 실행되는 AI 에이전트입니다. 직접 실행한 경우에만 승인하세요.",
+  "{peer} asks for a photo": "{peer}에서 사진을 요청합니다",
+  "{peer} asks for a scan": "{peer}에서 스캔을 요청합니다",
+  "{peer} asks for a file": "{peer}에서 파일을 요청합니다",
+  "Only what you take or choose here is sent, and only to this device.": "여기서 찍거나 고른 것만, 이 기기로만 보내집니다.",
+  "Take photo": "사진 찍기",
+  "Scan": "스캔",
+  "Choose file": "파일 선택"
 }
