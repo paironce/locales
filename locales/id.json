@@ -664,5 +664,8 @@
   "{peer} stopped watching.": "{peer} berhenti melihat.",
   "Requests from {peer} are off. Turn them on again in the options for this device.": "Permintaan dari {peer} dimatikan. Nyalakan lagi di opsi perangkat ini.",
   "Stop the live picture first.": "Hentikan gambar langsung terlebih dahulu.",
-  "Show requests from this agent": "Tampilkan permintaan dari agen ini"
+  "Show requests from this agent": "Tampilkan permintaan dari agen ini",
+  "Sharing stopped after {minutes} minutes. {peer} can ask again.": "Berbagi dihentikan setelah {minutes} menit. {peer} bisa meminta lagi.",
+  "This is an AI agent on a computer or in the cloud. Go on only if you started it yourself.": "Ini agen AI di komputer atau di cloud. Lanjutkan hanya jika Anda sendiri yang memulainya.",
+  "It tells you a safety code. Tell it whether this screen shows the same one; it goes on only after you said so.": "Ia memberi tahu kode keamanan. Beri tahu apakah layar ini menampilkan kode yang sama; ia baru lanjut setelah Anda menjawab."
 }

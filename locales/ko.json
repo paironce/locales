@@ -664,5 +664,8 @@
   "{peer} stopped watching.": "{peer}이(가) 보기를 멈췄습니다.",
   "Requests from {peer} are off. Turn them on again in the options for this device.": "{peer}의 요청이 꺼져 있습니다. 이 기기의 옵션에서 다시 켤 수 있습니다.",
   "Stop the live picture first.": "먼저 실시간 화면을 중지하세요.",
-  "Show requests from this agent": "이 에이전트의 요청 표시"
+  "Show requests from this agent": "이 에이전트의 요청 표시",
+  "Sharing stopped after {minutes} minutes. {peer} can ask again.": "{minutes}분이 지나 공유를 중지했습니다. {peer}이(가) 다시 요청할 수 있습니다.",
+  "This is an AI agent on a computer or in the cloud. Go on only if you started it yourself.": "컴퓨터나 클라우드에서 실행되는 AI 에이전트입니다. 직접 시작한 경우에만 계속하세요.",
+  "It tells you a safety code. Tell it whether this screen shows the same one; it goes on only after you said so.": "에이전트가 보안 코드를 알려 줍니다. 이 화면에 같은 코드가 보이는지 답해 주세요. 답을 받은 뒤에만 계속합니다."
 }

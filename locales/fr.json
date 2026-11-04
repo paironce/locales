@@ -664,5 +664,8 @@
   "{peer} stopped watching.": "{peer} a arrêté de regarder.",
   "Requests from {peer} are off. Turn them on again in the options for this device.": "Les demandes de {peer} sont désactivées. Réactivez-les dans les options de cet appareil.",
   "Stop the live picture first.": "Arrêtez d'abord l'image en direct.",
-  "Show requests from this agent": "Afficher les demandes de cet agent"
+  "Show requests from this agent": "Afficher les demandes de cet agent",
+  "Sharing stopped after {minutes} minutes. {peer} can ask again.": "Partage arrêté après {minutes} minutes. {peer} peut redemander.",
+  "This is an AI agent on a computer or in the cloud. Go on only if you started it yourself.": "C'est un agent IA sur un ordinateur ou dans le cloud. Continuez seulement si vous l'avez lancé vous-même.",
+  "It tells you a safety code. Tell it whether this screen shows the same one; it goes on only after you said so.": "Il vous donne un code de sécurité. Dites-lui si cet écran affiche le même ; il ne continue qu'après votre réponse."
 }
