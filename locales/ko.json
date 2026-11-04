@@ -645,5 +645,7 @@
   "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce는 자체 스캐너로 만든 PDF를 검색 가능하게 만듭니다. 이 PDF는 다른 곳에서 만들어졌습니다.",
   "Reading the text did not finish. Check the connection and try again.": "텍스트 읽기가 끝나지 않았습니다. 연결을 확인하고 다시 시도하세요.",
   "Searchable copy ready: {name}": "검색 가능한 사본 준비 완료: {name}",
-  "No text was found on these pages.": "이 페이지들에서 텍스트를 찾지 못했습니다."
+  "No text was found on these pages.": "이 페이지들에서 텍스트를 찾지 못했습니다.",
+  "Agent": "에이전트",
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "컴퓨터나 클라우드에서 실행되는 AI 에이전트입니다. 직접 실행한 경우에만 승인하세요."
 }

@@ -645,5 +645,7 @@
   "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce は自身のスキャナーで作った PDF を検索できるようにします。この PDF は別の場所で作られています。",
   "Reading the text did not finish. Check the connection and try again.": "文字の読み取りが完了しませんでした。接続を確認して、もう一度お試しください。",
   "Searchable copy ready: {name}": "検索できるコピーの準備ができました：{name}",
-  "No text was found on these pages.": "これらのページに文字は見つかりませんでした。"
+  "No text was found on these pages.": "これらのページに文字は見つかりませんでした。",
+  "Agent": "エージェント",
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "これはパソコンまたはクラウド上の AI エージェントです。自分で起動したものだけを承認してください。"
 }

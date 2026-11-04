@@ -645,5 +645,7 @@
   "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce rend consultables les PDF de son propre scanner. Ce PDF a été créé ailleurs.",
   "Reading the text did not finish. Check the connection and try again.": "La lecture du texte n’a pas abouti. Vérifiez la connexion et réessayez.",
   "Searchable copy ready: {name}": "Copie consultable prête : {name}",
-  "No text was found on these pages.": "Aucun texte n’a été trouvé sur ces pages."
+  "No text was found on these pages.": "Aucun texte n’a été trouvé sur ces pages.",
+  "Agent": "Agent",
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "Il s’agit d’un agent d’IA sur un ordinateur ou dans le cloud. Ne l’approuvez que si vous l’avez lancé vous-même."
 }

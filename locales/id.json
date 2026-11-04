@@ -645,5 +645,7 @@
   "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce membuat PDF dari pemindainya sendiri bisa dicari. PDF ini dibuat di tempat lain.",
   "Reading the text did not finish. Check the connection and try again.": "Pembacaan teks belum selesai. Periksa koneksi dan coba lagi.",
   "Searchable copy ready: {name}": "Salinan yang bisa dicari siap: {name}",
-  "No text was found on these pages.": "Tidak ada teks yang ditemukan di halaman ini."
+  "No text was found on these pages.": "Tidak ada teks yang ditemukan di halaman ini.",
+  "Agent": "Agen",
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "Ini agen AI di komputer atau di cloud. Setujui hanya jika Anda sendiri yang menjalankannya."
 }

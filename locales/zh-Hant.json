@@ -645,5 +645,7 @@
   "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce 能把自家掃描器產生的 PDF 變成可搜尋。這個 PDF 來自別處。",
   "Reading the text did not finish. Check the connection and try again.": "文字辨識沒有完成。請檢查網路連線後再試一次。",
   "Searchable copy ready: {name}": "可搜尋的副本已就緒：{name}",
-  "No text was found on these pages.": "這些頁面上沒有找到文字。"
+  "No text was found on these pages.": "這些頁面上沒有找到文字。",
+  "Agent": "Agent",
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "這是執行在電腦或雲端的 AI 智慧代理。只有你自己啟動的才核准。"
 }

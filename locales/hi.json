@@ -645,5 +645,7 @@
   "PairOnce makes PDFs from its own scanner searchable. This PDF was made elsewhere.": "PairOnce अपने स्कैनर से बनी PDF को खोजने योग्य बनाता है। यह PDF कहीं और बनी है।",
   "Reading the text did not finish. Check the connection and try again.": "टेक्स्ट पढ़ना पूरा नहीं हुआ। कनेक्शन देखें और फिर से कोशिश करें।",
   "Searchable copy ready: {name}": "खोजने योग्य कॉपी तैयार: {name}",
-  "No text was found on these pages.": "इन पेजों पर कोई टेक्स्ट नहीं मिला।"
+  "No text was found on these pages.": "इन पेजों पर कोई टेक्स्ट नहीं मिला।",
+  "Agent": "एजेंट",
+  "This is an AI agent on a computer or in the cloud. Approve it only if you started it yourself.": "यह किसी कंप्यूटर या क्लाउड पर चल रहा AI एजेंट है। इसे तभी मंज़ूरी दें जब इसे आपने ख़ुद शुरू किया हो।"
 }
