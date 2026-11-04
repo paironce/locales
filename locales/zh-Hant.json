@@ -654,5 +654,15 @@
   "Only what you take or choose here is sent, and only to this device.": "只傳送你在這裡拍攝或選擇的內容，而且只傳給這台裝置。",
   "Take photo": "拍照",
   "Scan": "掃描",
-  "Choose file": "選擇檔案"
+  "Choose file": "選擇檔案",
+  "{peer} asks to see your camera or screen": "{peer} 請求查看你的相機或螢幕",
+  "It gets a still picture each time it asks, at most two a second, until you stop. No video, no sound.": "它每要一次就收到一張靜態圖，每秒最多兩張，直到你停止。沒有影片，也沒有聲音。",
+  "Share camera": "分享相機",
+  "Turn off requests from this agent": "關閉這個 agent 的請求",
+  "{count} stills sent": "已傳送 {count} 張",
+  "A still each time {peer} asks · {count} sent": "{peer} 每要一次傳一張 · 已傳送 {count} 張",
+  "{peer} stopped watching.": "{peer} 已停止查看。",
+  "Requests from {peer} are off. Turn them on again in the options for this device.": "已關閉來自 {peer} 的請求。可以在這台裝置的選項裡重新開啟。",
+  "Stop the live picture first.": "請先停止即時畫面。",
+  "Show requests from this agent": "顯示這個 agent 的請求"
 }

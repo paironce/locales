@@ -883,5 +883,15 @@
   "Only what you take or choose here is sent, and only to this device.": "只发送你在这里拍摄或选择的内容，而且只发给这台设备。",
   "Take photo": "拍照",
   "Scan": "扫描",
-  "Choose file": "选择文件"
+  "Choose file": "选择文件",
+  "{peer} asks to see your camera or screen": "{peer} 请求查看你的摄像头或屏幕",
+  "It gets a still picture each time it asks, at most two a second, until you stop. No video, no sound.": "它每要一次就收到一张静态图，每秒最多两张，直到你停止。没有视频，也没有声音。",
+  "Share camera": "共享摄像头",
+  "Turn off requests from this agent": "关闭这个 agent 的请求",
+  "{count} stills sent": "已发送 {count} 张",
+  "A still each time {peer} asks · {count} sent": "{peer} 每要一次发一张 · 已发送 {count} 张",
+  "{peer} stopped watching.": "{peer} 已停止查看。",
+  "Requests from {peer} are off. Turn them on again in the options for this device.": "已关闭来自 {peer} 的请求。可以在这台设备的选项里重新打开。",
+  "Stop the live picture first.": "请先停止实时画面。",
+  "Show requests from this agent": "显示这个 agent 的请求"
 }

@@ -654,5 +654,15 @@
   "Only what you take or choose here is sent, and only to this device.": "Gesendet wird nur, was du hier aufnimmst oder auswählst, und nur an dieses Gerät.",
   "Take photo": "Foto aufnehmen",
   "Scan": "Scannen",
-  "Choose file": "Datei auswählen"
+  "Choose file": "Datei auswählen",
+  "{peer} asks to see your camera or screen": "{peer} möchte deine Kamera oder deinen Bildschirm sehen",
+  "It gets a still picture each time it asks, at most two a second, until you stop. No video, no sound.": "Es bekommt bei jeder Anfrage ein Standbild, höchstens zwei pro Sekunde, bis du aufhörst. Kein Video, kein Ton.",
+  "Share camera": "Kamera teilen",
+  "Turn off requests from this agent": "Anfragen von diesem Agenten ausschalten",
+  "{count} stills sent": "{count} Standbilder gesendet",
+  "A still each time {peer} asks · {count} sent": "Ein Standbild bei jeder Anfrage von {peer} · {count} gesendet",
+  "{peer} stopped watching.": "{peer} schaut nicht mehr zu.",
+  "Requests from {peer} are off. Turn them on again in the options for this device.": "Anfragen von {peer} sind aus. In den Optionen dieses Geräts kannst du sie wieder einschalten.",
+  "Stop the live picture first.": "Beende zuerst das Live-Bild.",
+  "Show requests from this agent": "Anfragen von diesem Agenten anzeigen"
 }

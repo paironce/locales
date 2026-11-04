@@ -654,5 +654,15 @@
   "Only what you take or choose here is sent, and only to this device.": "Hanya yang Anda ambil atau pilih di sini yang dikirim, dan hanya ke perangkat ini.",
   "Take photo": "Ambil foto",
   "Scan": "Pindai",
-  "Choose file": "Pilih file"
+  "Choose file": "Pilih file",
+  "{peer} asks to see your camera or screen": "{peer} meminta melihat kamera atau layar Anda",
+  "It gets a still picture each time it asks, at most two a second, until you stop. No video, no sound.": "Ia mendapat gambar diam setiap kali meminta, paling banyak dua per detik, sampai Anda berhenti. Tanpa video, tanpa suara.",
+  "Share camera": "Bagikan kamera",
+  "Turn off requests from this agent": "Matikan permintaan dari agen ini",
+  "{count} stills sent": "{count} gambar terkirim",
+  "A still each time {peer} asks · {count} sent": "Satu gambar setiap kali {peer} meminta · {count} terkirim",
+  "{peer} stopped watching.": "{peer} berhenti melihat.",
+  "Requests from {peer} are off. Turn them on again in the options for this device.": "Permintaan dari {peer} dimatikan. Nyalakan lagi di opsi perangkat ini.",
+  "Stop the live picture first.": "Hentikan gambar langsung terlebih dahulu.",
+  "Show requests from this agent": "Tampilkan permintaan dari agen ini"
 }

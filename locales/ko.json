@@ -654,5 +654,15 @@
   "Only what you take or choose here is sent, and only to this device.": "여기서 찍거나 고른 것만, 이 기기로만 보내집니다.",
   "Take photo": "사진 찍기",
   "Scan": "스캔",
-  "Choose file": "파일 선택"
+  "Choose file": "파일 선택",
+  "{peer} asks to see your camera or screen": "{peer}이(가) 카메라나 화면을 보려고 합니다",
+  "It gets a still picture each time it asks, at most two a second, until you stop. No video, no sound.": "요청할 때마다 정지 사진을 한 장 받습니다(초당 최대 두 장). 중지할 때까지 계속됩니다. 동영상과 소리는 없습니다.",
+  "Share camera": "카메라 공유",
+  "Turn off requests from this agent": "이 에이전트의 요청 끄기",
+  "{count} stills sent": "사진 {count}장 보냄",
+  "A still each time {peer} asks · {count} sent": "{peer}이(가) 요청할 때마다 한 장 · {count}장 보냄",
+  "{peer} stopped watching.": "{peer}이(가) 보기를 멈췄습니다.",
+  "Requests from {peer} are off. Turn them on again in the options for this device.": "{peer}의 요청이 꺼져 있습니다. 이 기기의 옵션에서 다시 켤 수 있습니다.",
+  "Stop the live picture first.": "먼저 실시간 화면을 중지하세요.",
+  "Show requests from this agent": "이 에이전트의 요청 표시"
 }
