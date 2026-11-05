@@ -295,7 +295,7 @@
   "Android to PC": "Android से PC",
   "AirDrop alternative": "AirDrop का विकल्प",
   "Email this code": "यह कोड ईमेल करें",
-  "Encrypted · relayed · up to 32 MB": "एन्क्रिप्टेड · रिले के ज़रिए · 32 MB तक",
+  "Encrypted · relayed": "एन्क्रिप्टेड · रिले के ज़रिए",
   "This is the same browser": "यह वही ब्राउज़र है",
   "This browser is showing that code. Open PairOnce on your other device and enter the code there.": "यही ब्राउज़र वह कोड दिखा रहा है। अपने दूसरे डिवाइस पर PairOnce खोलें और वहाँ कोड डालें।",
   "{name} (other)": "{name} (दूसरा)",
@@ -667,5 +667,6 @@
   "Show requests from this agent": "इस एजेंट के अनुरोध दिखाएँ",
   "Sharing stopped after {minutes} minutes. {peer} can ask again.": "{minutes} मिनट बाद शेयर करना बंद हो गया। {peer} फिर से पूछ सकता है।",
   "This is an AI agent on a computer or in the cloud. Go on only if you started it yourself.": "यह कंप्यूटर या क्लाउड पर चलने वाला AI एजेंट है। आगे तभी बढ़ें जब इसे आपने खुद शुरू किया हो।",
+  "Waiting for your agent": "आपके एजेंट का इंतज़ार है",
   "It tells you a safety code. Tell it whether this screen shows the same one; it goes on only after you said so.": "यह आपको एक सुरक्षा कोड बताएगा। उसे बताएँ कि क्या इस स्क्रीन पर वही कोड है; आपके बताने के बाद ही वह आगे बढ़ेगा।"
 }
