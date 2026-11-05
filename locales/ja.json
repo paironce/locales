@@ -233,6 +233,7 @@
   "In this tab only — save it before you leave.": "このタブ内にのみ保持されています。ページを離れる前に保存してください。",
   "Hide": "非表示",
   "Preview": "プレビュー",
+  "This picture is too large to preview here. Save it to open it.": "この画像は大きすぎてここではプレビューできません。保存してから開いてください。",
   "Remove from this page": "このページから削除",
   "The browser can't confirm the file was saved. Check your Downloads folder and save again if needed.": "ファイルが保存されたかどうかを、ブラウザでは確認できません。ダウンロードフォルダを確認し、必要に応じてもう一度保存してください。",
   "Preview of {name}": "{name}のプレビュー",

@@ -258,6 +258,7 @@
   "Please wait…": "请稍候…",
   "Point the camera at the QR code on your other device.": "将相机对准另一台设备上的二维码。",
   "Preview": "预览",
+  "This picture is too large to preview here. Save it to open it.": "这张图片太大，无法在这里预览。保存后再打开。",
   "Preview of {name}": "{name} 的预览",
   "Previously loaded batches are shown below and may be out of date.": "下方显示的是此前加载的内容，可能已过期。",
   "Privacy & data": "隐私与数据",
