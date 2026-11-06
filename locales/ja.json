@@ -53,6 +53,7 @@
   "Show my code": "コードを表示",
   "Enter a code": "コードを入力",
   "Getting this browser ready…": "このブラウザを準備しています…",
+  "PairOnce runs in your browser and needs JavaScript. Turn it on for this site to connect your devices.": "PairOnceはブラウザ上で動作するため、JavaScriptが必要です。デバイスを接続するには、このサイトでJavaScriptをオンにしてください。",
   "Waiting for connection": "接続待ち",
   "Connecting": "接続中",
   "Approval needed": "承認が必要です",

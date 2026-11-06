@@ -53,6 +53,7 @@
   "Show my code": "顯示我的連線碼",
   "Enter a code": "輸入連線碼",
   "Getting this browser ready…": "正在準備這個瀏覽器…",
+  "PairOnce runs in your browser and needs JavaScript. Turn it on for this site to connect your devices.": "PairOnce 在瀏覽器中執行，需要 JavaScript。請為這個網站開啟 JavaScript，才能連接你的裝置。",
   "Waiting for connection": "等待連線",
   "Connecting": "連線中",
   "Approval needed": "需要核准",
