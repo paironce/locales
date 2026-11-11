@@ -45,6 +45,8 @@
   "Connecting to the other device…": "दूसरे डिवाइस से कनेक्ट हो रहा है…",
   "Check that the other screen shows the same safety code, then approve there.": "देखें कि दूसरी स्क्रीन पर भी यही सुरक्षा कोड दिख रहा है, फिर वहाँ मंज़ूरी दें।",
   "This usually takes a few seconds.": "आम तौर पर इसमें कुछ सेकंड लगते हैं।",
+  "Still connecting. When a network blocks the direct path, PairOnce switches to its encrypted relay. This can take about 20 seconds.": "अभी कनेक्ट हो रहा है। जब कोई नेटवर्क सीधा रास्ता रोकता है, तो PairOnce अपने एन्क्रिप्टेड रिले पर चला जाता है। इसमें लगभग 20 सेकंड लग सकते हैं।",
+  "The direct path is blocked. Connecting through the encrypted relay…": "सीधा रास्ता बंद है। एन्क्रिप्टेड रिले के ज़रिए कनेक्ट हो रहा है…",
   "Waiting for {peerLabel}": "{peerLabel} का इंतज़ार है",
   "PairOnce is open on {peerLabel}. Tap Connect next to this device there.": "{peerLabel} पर PairOnce खुला है। वहाँ इस डिवाइस के सामने “कनेक्ट करें” पर टैप करें।",
   "Open PairOnce on {peerLabel}, then tap Connect next to this device.": "{peerLabel} पर PairOnce खोलें, फिर इस डिवाइस के सामने “कनेक्ट करें” पर टैप करें।",

@@ -45,6 +45,8 @@
   "Connecting to the other device…": "Menghubungkan ke perangkat lain…",
   "Check that the other screen shows the same safety code, then approve there.": "Pastikan layar perangkat lain menampilkan kode keamanan yang sama, lalu setujui di sana.",
   "This usually takes a few seconds.": "Biasanya hanya perlu beberapa detik.",
+  "Still connecting. When a network blocks the direct path, PairOnce switches to its encrypted relay. This can take about 20 seconds.": "Masih menghubungkan. Jika jaringan memblokir jalur langsung, PairOnce beralih ke server perantara terenkripsi. Ini bisa memakan waktu sekitar 20 detik.",
+  "The direct path is blocked. Connecting through the encrypted relay…": "Jalur langsung diblokir. Menghubungkan lewat server perantara terenkripsi…",
   "Waiting for {peerLabel}": "Menunggu {peerLabel}",
   "PairOnce is open on {peerLabel}. Tap Connect next to this device there.": "PairOnce sudah terbuka di {peerLabel}. Di sana, ketuk Hubungkan di samping perangkat ini.",
   "Open PairOnce on {peerLabel}, then tap Connect next to this device.": "Buka PairOnce di {peerLabel}, lalu ketuk Hubungkan di samping perangkat ini.",

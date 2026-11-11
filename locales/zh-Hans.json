@@ -425,6 +425,8 @@
   "This selection is not a confirmed save. Keep this tab open while you sign in and verify your email, then choose Save to account. Nothing uploads automatically.": "选择文件不代表保存成功。登录及验证邮箱时，请保持此页打开，之后点击“保存到账户”。文件不会自动上传。",
   "This tab is full": "当前页面已满",
   "This usually takes a few seconds.": "通常只需几秒钟。",
+  "Still connecting. When a network blocks the direct path, PairOnce switches to its encrypted relay. This can take about 20 seconds.": "仍在连接。网络挡住直连时，PairOnce 会改走加密中继，大约需要 20 秒。",
+  "The direct path is blocked. Connecting through the encrypted relay…": "直连被挡住了，正在改走加密中继…",
   "Told {from} it is saved.": "已告诉{from}：文件保存好了。",
   "Too many attempts": "尝试次数过多",
   "Too many pairing attempts; start a new session": "尝试次数过多，请重新发起连接。",
