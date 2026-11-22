@@ -131,7 +131,7 @@
   "Received {name}. Save it before you close this page.": "Fichier reçu : {name}. Enregistrez-le avant de fermer cette page.",
   "Transfer stopped. Reconnect to send the remaining files.": "Transfert arrêté. Reconnectez-vous pour envoyer les fichiers restants.",
   "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — Transfert de fichiers gratuit entre appareils",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "Envoyez fichiers et liens entre téléphone et ordinateur. Gratuit, sans appli ni compte. Chiffré entre vos navigateurs, aucun fichier stocké sur nos serveurs.",
+  "Pair once, send anything. Files and text between your phone and computer in the browser: no app, no account, end-to-end encrypted, no server copy. Free.": "Associez une fois, envoyez ce que vous voulez : fichiers et texte entre téléphone et ordinateur dans le navigateur. Sans appli ni compte, chiffré de bout en bout, aucune copie sur un serveur. Gratuit.",
   "Incoming file {name}": "Fichier entrant : {name}",
   "{peer} wants to send you this file": "{peer} veut vous envoyer ce fichier",
   "Accept": "Accepter",

@@ -339,7 +339,7 @@
   "Send": "发送",
   "Send 1 file": "发送 1 个文件",
   "Send anything.": "随时发送。",
-  "Send files and links between your phone and computer. Free, no app, no sign-up. Encrypted between your browsers; files are never stored on our servers.": "在手机和电脑之间传文件和链接。免费，无需安装，无需注册。浏览器之间加密传输，文件不会存在我们的服务器上。",
+  "Pair once, send anything. Files and text between your phone and computer in the browser: no app, no account, end-to-end encrypted, no server copy. Free.": "一次配对，随时发送：在浏览器里让手机和电脑互传文件和文字。无需安装，无需账号，端到端加密，服务器上不留副本。免费。",
   "Send more, or save what you received before you leave.": "可以继续发送；离开前记得保存收到的文件。",
   "Send reset link": "发送重置链接",
   "Send something to {peerLabel}.": "现在可以给{peerLabel}发文件或文字了。",
