@@ -130,7 +130,7 @@
   "Request declined.": "リクエストを拒否しました。",
   "Received {name}. Save it before you close this page.": "{name}を受信しました。このページを閉じる前に保存してください。",
   "Transfer stopped. Reconnect to send the remaining files.": "転送が停止しました。残りのファイルを送信するには再接続してください。",
-  "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — デバイス間の無料ファイル転送（登録不要）",
+  "PairOnce — Send files from phone to computer. Free, no app": "PairOnce — スマホからパソコンへファイル送信。無料・アプリ不要",
   "Pair once, send anything. Files and text between your phone and computer in the browser: no app, no account, end-to-end encrypted, no server copy. Free.": "ペアリングは一度だけ、あとは何でも送れます。ブラウザでスマホとパソコンの間にファイルやテキストを送信。アプリもアカウントも不要、エンドツーエンド暗号化、サーバーにコピーは残りません。無料。",
   "Incoming file {name}": "受信待ちのファイル、{name}",
   "{peer} wants to send you this file": "{peer}がこのファイルを送信しようとしています",

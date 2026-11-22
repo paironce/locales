@@ -130,7 +130,7 @@
   "Request declined.": "Pedido recusado.",
   "Received {name}. Save it before you close this page.": "Arquivo recebido: {name}. Salve antes de fechar esta página.",
   "Transfer stopped. Reconnect to send the remaining files.": "Transferência interrompida. Reconecte para enviar os arquivos restantes.",
-  "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — Transferência de arquivos grátis, sem cadastro",
+  "PairOnce — Send files from phone to computer. Free, no app": "PairOnce — Arquivos do celular ao PC. Grátis, sem app",
   "Pair once, send anything. Files and text between your phone and computer in the browser: no app, no account, end-to-end encrypted, no server copy. Free.": "Pareie uma vez, envie o que quiser: arquivos e texto entre celular e computador no navegador. Sem app nem conta, criptografia de ponta a ponta, sem cópia em servidor. Grátis.",
   "Incoming file {name}": "Arquivo chegando: {name}",
   "{peer} wants to send you this file": "{peer} quer enviar este arquivo para você",

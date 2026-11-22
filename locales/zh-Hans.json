@@ -251,7 +251,7 @@
   "PairOnce is open on {peerLabel}. Tap Connect next to this device there.": "{peerLabel}已打开 PairOnce，请在那台设备上点本机旁的“连接”。",
   "PairOnce keeps no copy. Closing this page ends the connection.": "PairOnce 不保留任何副本。关掉这个页面，连接就结束了。",
   "PairOnce — Account files": "PairOnce — 账户文件",
-  "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — 免费跨设备传文件，无需注册",
+  "PairOnce — Send files from phone to computer. Free, no app": "PairOnce — 手机传文件到电脑，免费，无需装 App",
   "PairOnce — Send files between devices": "PairOnce — 跨设备传文件",
   "Password": "密码",
   "Password updated. Sign in with your new password to retrieve your saved files.": "密码已更新。请使用新密码登录并取回已保存文件。",

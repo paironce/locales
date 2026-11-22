@@ -130,7 +130,7 @@
   "Request declined.": "已拒絕連線要求。",
   "Received {name}. Save it before you close this page.": "已收到 {name}。關閉此頁面前請先儲存。",
   "Transfer stopped. Reconnect to send the remaining files.": "傳輸已停止。重新連線即可傳送剩餘的檔案。",
-  "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — 免費跨裝置傳檔案，免註冊",
+  "PairOnce — Send files from phone to computer. Free, no app": "PairOnce — 手機傳檔案到電腦，免費，免裝 App",
   "Pair once, send anything. Files and text between your phone and computer in the browser: no app, no account, end-to-end encrypted, no server copy. Free.": "配對一次，什麼都能傳：在瀏覽器裡讓手機和電腦互傳檔案和文字。免安裝 App、免帳號，端對端加密，伺服器不留副本。免費。",
   "Incoming file {name}": "待接收的檔案 {name}",
   "{peer} wants to send you this file": "{peer}想傳給你這個檔案",

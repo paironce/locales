@@ -130,7 +130,7 @@
   "Request declined.": "Permintaan ditolak.",
   "Received {name}. Save it before you close this page.": "File {name} sudah diterima. Simpan sebelum Anda menutup halaman ini.",
   "Transfer stopped. Reconnect to send the remaining files.": "Transfer berhenti. Hubungkan lagi untuk mengirim file yang tersisa.",
-  "PairOnce — Free file transfer between devices, no sign-up": "PairOnce — Transfer file gratis antarperangkat, tanpa daftar",
+  "PairOnce — Send files from phone to computer. Free, no app": "PairOnce — Kirim file HP ke komputer. Gratis, tanpa aplikasi",
   "Pair once, send anything. Files and text between your phone and computer in the browser: no app, no account, end-to-end encrypted, no server copy. Free.": "Pasangkan sekali, kirim apa saja: file dan teks antara ponsel dan komputer di browser. Tanpa aplikasi dan akun, terenkripsi end-to-end, tanpa salinan di server. Gratis.",
   "Incoming file {name}": "File masuk: {name}",
   "{peer} wants to send you this file": "{peer} ingin mengirim file ini kepada Anda",
